@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Numbers in Context",
+    "content": [
+        {
+            "sentence": "Combien de pommes as-tu? J'ai ___. (6)",
+            "options": [
+                {"choices": ["six", "quatre", "dix"]}
+            ],
+            "answers": ["six"]
+        },
+        {
+            "sentence": "Quel âge a-t-il? Il a ___. (13)",
+            "options": [
+                {"choices": ["treize", "douze", "dix-sept"]}
+            ],
+            "answers": ["treize"]
+        },
+        {
+            "sentence": "Combien de livres as-tu? J'ai ___. (8)",
+            "options": [
+                {"choices": ["huit", "dix-neuf", "douze"]}
+            ],
+            "answers": ["huit"]
+        },
+        {
+            "sentence": "Combien de personnes y a-t-il? Il y a ___. (10)",
+            "options": [
+                {"choices": ["dix", "cinq", "trois"]}
+            ],
+            "answers": ["dix"]
+        }
+    ]
+}

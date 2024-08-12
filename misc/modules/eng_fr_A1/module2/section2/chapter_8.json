@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Numbers Review",
+    "content": [
+        {
+            "sentence": "Combien d'années a-t-il ? Il a ___. (45)",
+            "options": [
+                {"choices": ["quarante-cinq", "soixante", "quatre-vingt-dix"]}
+            ],
+            "answers": ["quarante-cinq"]
+        },
+        {
+            "sentence": "Combien d'euros as-tu ? J'ai ___. (33)",
+            "options": [
+                {"choices": ["trente-trois", "quarante", "cinquante"]}
+            ],
+            "answers": ["trente-trois"]
+        },
+        {
+            "sentence": "Quel âge as-tu ? J'ai ___. (27)",
+            "options": [
+                {"choices": ["vingt-sept", "trente", "quarante"]}
+            ],
+            "answers": ["vingt-sept"]
+        },
+        {
+            "sentence": "Combien de personnes sont là ? Il y a ___. (80)",
+            "options": [
+                {"choices": ["quatre-vingts", "cent", "cinquante"]}
+            ],
+            "answers": ["quatre-vingts"]
+        }
+    ]
+}

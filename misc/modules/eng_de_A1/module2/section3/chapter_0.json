@@ -1,0 +1,18 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Basic Colors",
+    "vocabulary": [
+        {"word": "Rot", "meaning": "Red"},
+        {"word": "Blau", "meaning": "Blue"},
+        {"word": "Grün", "meaning": "Green"},
+        {"word": "Gelb", "meaning": "Yellow"},
+        {"word": "Schwarz", "meaning": "Black"},
+        {"word": "Weiß", "meaning": "White"},
+        {"word": "Braun", "meaning": "Brown"},
+        {"word": "Orange", "meaning": "Orange"},
+        {"word": "Rosa", "meaning": "Pink"},
+        {"word": "Lila", "meaning": "Purple"},
+        {"word": "Grau", "meaning": "Gray"}
+    ]
+}

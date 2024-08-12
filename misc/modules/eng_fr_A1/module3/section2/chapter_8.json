@@ -1,0 +1,11 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Describing Social Circles",
+    "content": [
+        {"sentence": "Mon __ est mon meilleur ami depuis des années. (Friend, male)", "answers": ["Ami"]},
+        {"sentence": "Elle est ma __ et habite à proximité. (Friend, female)", "answers": ["Amie"]},
+        {"sentence": "Mon __ est marié à ma sœur. (Colleague, male)", "answers": ["Collègue"]},
+        {"sentence": "Ma __ travaille avec moi dans le même bureau. (Colleague, female)", "answers": ["Collègue"]}
+    ]
+}

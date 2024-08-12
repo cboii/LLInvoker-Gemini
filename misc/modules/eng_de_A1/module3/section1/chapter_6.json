@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: More Family Relations",
+    "content": [
+        {
+            "sentence": "Mein __ ist der Ehemann meiner Tante. (Uncle)",
+            "options": [
+                {"choices": ["Onkel", "Vater", "Bruder"]}
+            ],
+            "answers": ["Onkel"]
+        },
+        {
+            "sentence": "Meine __ ist die Ehefrau meines Onkels. (Aunt)",
+            "options": [
+                {"choices": ["Tante", "Schwester", "Mutter"]}
+            ],
+            "answers": ["Tante"]
+        },
+        {
+            "sentence": "Mein __ ist der Sohn meiner Eltern. (Brother)",
+            "options": [
+                {"choices": ["Bruder", "Vater", "Onkel"]}
+            ],
+            "answers": ["Bruder"]
+        },
+        {
+            "sentence": "Meine __ ist die Tochter meiner Eltern. (Sister)",
+            "options": [
+                {"choices": ["Schwester", "Mutter", "Cousine"]}
+            ],
+            "answers": ["Schwester"]
+        }
+    ]
+}

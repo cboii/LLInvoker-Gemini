@@ -1,0 +1,11 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: More Ordinal Numbers in Context",
+    "content": [
+        {"sentence": "Ich bin der ___. (fifth)", "answers": ["Fünfte"]},
+        {"sentence": "Sie ist die ___. (sixth)", "answers": ["Sechste"]},
+        {"sentence": "Das ist das ___. (seventh)", "answers": ["Siebte"]},
+        {"sentence": "Er kam als ___. (eighth)", "answers": ["Achte"]}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "chapter": 4,
+    "type": 1,
+    "title": "5: Fill-in-the-Blank: Numbers 11-20 in Sentences",
+    "content": [
+        {"sentence": "J'ai ___ amis. (12)", "answers": ["douze"]},
+        {"sentence": "Il a ___ ans. (15)", "answers": ["quinze"]},
+        {"sentence": "Elle a ___ livres. (18)", "answers": ["dix-huit"]},
+        {"sentence": "Nous sommes ___ personnes. (20)", "answers": ["vingt"]}
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Combined Sentences",
+    "content": [
+        {
+            "sentence": "___ m'appelle Anna. (I am called)",
+            "answers": ["Je"]
+        },
+        {
+            "sentence": "___ viens-tu? (Where are you from?)",
+            "answers": ["D'où"]
+        },
+        {
+            "sentence": "Je ___ d'Allemagne. (come)",
+            "answers": ["viens"]
+        },
+        {
+            "sentence": "Comment ___ ? (how are you)",
+            "answers": ["ça va"]
+        },
+        {
+            "sentence": "___, où sont les toilettes? (Excuse me)",
+            "answers": ["Excusez-moi"]
+        },
+        {
+            "sentence": "___ pour ton aide! (Thank you)",
+            "answers": ["Merci"]
+        }
+    ]
+}

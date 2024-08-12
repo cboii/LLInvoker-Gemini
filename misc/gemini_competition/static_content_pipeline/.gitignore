@@ -1,0 +1,9 @@
+gemini_env/
+gemini_env
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+configs/
+.env

@@ -1,0 +1,23 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Basic Self-Introduction",
+    "content": [
+        {
+            "sentence": "___ heiße Anna. (I am called)",
+            "answers": ["Ich"]
+        },
+        {
+            "sentence": "___ kommst du? (Where are you from?)",
+            "answers": ["Woher"]
+        },
+        {
+            "sentence": "___ komme aus Deutschland. (I come from)",
+            "answers": ["Ich"]
+        },
+        {
+            "sentence": "___ bist du? (Who are you?)",
+            "answers": ["Wer"]
+        }
+    ]
+}

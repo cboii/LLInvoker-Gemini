@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Identifying Shapes",
+    "content": [
+        {"sentence": "Ein Rad ist ein ___. (circle)", "answers": ["Kreis"]},
+        {"sentence": "Ein Würfel hat die Form eines ___. (square)", "answers": ["Quadrat"]},
+        {"sentence": "Ein Pyramide hat die Form eines ___. (triangle)", "answers": ["Dreieck"]},
+        {"sentence": "Ein Bildschirm hat oft die Form eines ___. (rectangle)", "answers": ["Rechteck"]}
+    ]
+}

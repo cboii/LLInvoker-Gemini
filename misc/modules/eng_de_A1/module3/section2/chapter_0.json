@@ -1,0 +1,20 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Describing Relationships",
+    "vocabulary": [
+        {"word": "Freund", "meaning": "Friend (male)"},
+        {"word": "Freundin", "meaning": "Friend (female)"},
+        {"word": "Bekannter", "meaning": "Acquaintance (male)"},
+        {"word": "Bekannte", "meaning": "Acquaintance (female)"},
+        {"word": "Kollege", "meaning": "Colleague (male)"},
+        {"word": "Kollegin", "meaning": "Colleague (female)"},
+        {"word": "Nachbar", "meaning": "Neighbor (male)"},
+        {"word": "Nachbarin", "meaning": "Neighbor (female)"},
+        {"word": "Verheiratet", "meaning": "Married"},
+        {"word": "Single", "meaning": "Single"},
+        {"word": "Geschieden", "meaning": "Divorced"},
+        {"word": "Verlobt", "meaning": "Engaged"},
+        {"word": "Zusammen", "meaning": "Together"}
+    ]
+}

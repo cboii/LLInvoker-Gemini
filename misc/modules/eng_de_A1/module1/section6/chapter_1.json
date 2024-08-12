@@ -1,0 +1,31 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Combined Sentences",
+    "content": [
+        {
+            "sentence": "___ heiße Anna. (I am called)",
+            "answers": ["Ich"]
+        },
+        {
+            "sentence": "___ kommst du? (Where are you from?)",
+            "answers": ["Woher"]
+        },
+        {
+            "sentence": "Ich ___ aus Deutschland. (come)",
+            "answers": ["komme"]
+        },
+        {
+            "sentence": "Wie ___ es dir? (How are you)",
+            "answers": ["geht"]
+        },
+        {
+            "sentence": "___, wo ist die Toilette? (Excuse me)",
+            "answers": ["Entschuldigung"]
+        },
+        {
+            "sentence": "___ für deine Hilfe! (Thank you)",
+            "answers": ["Danke"]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Extending Introductions",
+    "content": [
+        {
+            "sentence": "___ vas-tu? (How)",
+            "answers": ["Comment"]
+        },
+        {
+            "sentence": "J'habite ___ Berlin. (in)",
+            "answers": ["à"]
+        },
+        {
+            "sentence": "Et ___? (you)",
+            "answers": ["toi"]
+        },
+        {
+            "sentence": "Je vais ___. (fine)",
+            "answers": ["bien"]
+        }
+    ]
+}

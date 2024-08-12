@@ -1,0 +1,47 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Polite Phrases - Vocabulary",
+    "vocabulary": [
+        {
+            "word": "S'il vous plaît",
+            "meaning": "Please",
+            "example": "Pouvez-vous m'aider, s'il vous plaît ?"
+        },
+        {
+            "word": "Merci",
+            "meaning": "Thank you",
+            "example": "Merci pour votre aide !"
+        },
+        {
+            "word": "Excusez-moi",
+            "meaning": "Excuse me/Sorry",
+            "example": "Excusez-moi, où sont les toilettes ?"
+        },
+        {
+            "word": "Oui",
+            "meaning": "Yes",
+            "example": "Oui, c'est correct."
+        },
+        {
+            "word": "Non",
+            "meaning": "No",
+            "example": "Non, ce n'est pas possible."
+        },
+        {
+            "word": "De rien",
+            "meaning": "You’re welcome",
+            "example": "Merci ! - De rien."
+        },
+        {
+            "word": "Pas de problème",
+            "meaning": "No problem",
+            "example": "Merci pour l'aide. - Pas de problème."
+        },
+        {
+            "word": "Amusez-vous bien",
+            "meaning": "Have fun",
+            "example": "Amusez-vous bien à la fête !"
+        }
+    ]
+}

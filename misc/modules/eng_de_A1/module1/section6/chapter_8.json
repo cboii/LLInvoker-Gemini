@@ -1,0 +1,52 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Review",
+    "content": [
+        {
+            "sentence": "___! Wie geht es dir? (Hello)",
+            "options": [
+                {
+                    "choices": ["Hallo", "Guten Morgen"]
+                }
+            ],
+            "answers": ["Hallo"]
+        },
+        {
+            "sentence": "Ich ___ aus den USA. (come)",
+            "options": [
+                {
+                    "choices": ["komme", "bin"]
+                }
+            ],
+            "answers": ["komme"]
+        },
+        {
+            "sentence": "___ heißt du? (What)",
+            "options": [
+                {
+                    "choices": ["Wie", "Was"]
+                }
+            ],
+            "answers": ["Wie"]
+        },
+        {
+            "sentence": "Ich ___ 25 Jahre alt. (am)",
+            "options": [
+                {
+                    "choices": ["bin", "habe"]
+                }
+            ],
+            "answers": ["bin"]
+        },
+        {
+            "sentence": "___ wohne in München. (I)",
+            "options": [
+                {
+                    "choices": ["Ich", "Du"]
+                }
+            ],
+            "answers": ["Ich"]
+        }
+    ]
+}

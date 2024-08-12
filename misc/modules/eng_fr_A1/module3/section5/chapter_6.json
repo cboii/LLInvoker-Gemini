@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: Family and Relationships",
+    "content": [
+        {
+            "sentence": "Mon __ est très gentil. (Uncle)",
+            "options": [
+                {"choices": ["Oncle", "Père", "Frère"]}
+            ],
+            "answers": ["Oncle"]
+        },
+        {
+            "sentence": "Mes parents sont __ depuis 30 ans. (Married)",
+            "options": [
+                {"choices": ["mariés", "divorcés", "fiancés"]}
+            ],
+            "answers": ["mariés"]
+        },
+        {
+            "sentence": "Mon __ est mon meilleur ami. (Friend, male)",
+            "options": [
+                {"choices": ["ami", "collègue", "voisin"]}
+            ],
+            "answers": ["ami"]
+        },
+        {
+            "sentence": "Ma __ est très drôle. (Friend, female)",
+            "options": [
+                {"choices": ["amie", "collègue", "voisine"]}
+            ],
+            "answers": ["amie"]
+        }
+    ]
+}

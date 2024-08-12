@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "llinvoker"
+  },
+  "targets": {},
+  "etags": {
+    "llinvoker": {
+      "extensionInstances": {
+        "delete-user-data": "41ebbcde397adea345f42669fbcd695e7223b0ed4a62dec297ab008f98f2d923",
+        "firestore-stripe-payments": "a8d46b702485da3e1ea6a40bc845ed435682385a2460ae8ee8ef1202534f3193"
+      }
+    }
+  },
+  "dataconnectEmulatorConfig": {}
+}

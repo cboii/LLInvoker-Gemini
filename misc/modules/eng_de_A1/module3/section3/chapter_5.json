@@ -1,0 +1,11 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Friendship Descriptions",
+    "content": [
+        {"sentence": "Wir sind __. (friends)", "answers": ["Freunde"]},
+        {"sentence": "__ ist meine beste Freundin. (She)", "answers": ["Sie"]},
+        {"sentence": "__ ist sehr nett. (He/She)", "answers": ["Er/Sie"]},
+        {"sentence": "Wir __ viel Zeit zusammen. (spend)", "answers": ["verbringen"]}
+    ]
+}

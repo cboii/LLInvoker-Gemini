@@ -1,0 +1,22 @@
+{
+    "chapter": 1,
+    "type": 5,
+    "title": "2: Reading Comprehension: Colors and Shapes in Daily Life",
+    "content": "Le matin, je bois une tasse de café. La tasse est bleue. Ensuite, je mets une chemise rouge et je vais au travail. Mon bureau est au troisième étage. Sur mon bureau, il y a un carnet carré. Dans l'après-midi, je mange une pomme qui est verte. Après le travail, je rentre chez moi et je lis un livre. Le livre est ovale et a une couverture grise.",
+    "questions": [
+        "De quelle couleur est la tasse?",
+        "De quelle couleur est la chemise?",
+        "À quel étage se trouve le bureau?",
+        "Quelle forme a le carnet?",
+        "De quelle couleur est la pomme?",
+        "Quelle forme a le livre?"
+    ],
+    "answers": [
+        "La tasse est bleue.",
+        "La chemise est rouge.",
+        "Le bureau est au troisième étage.",
+        "Le carnet est carré.",
+        "La pomme est verte.",
+        "Le livre est ovale."
+    ]
+}

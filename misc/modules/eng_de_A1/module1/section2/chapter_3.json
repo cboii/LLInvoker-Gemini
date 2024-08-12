@@ -1,0 +1,27 @@
+{
+    "chapter": 3,
+    "type": 7,
+    "title": "4: More Polite Phrases - Vocabulary",
+    "vocabulary": [
+        {
+            "word": "Entschuldigen Sie",
+            "meaning": "Excuse me (formal)",
+            "example": "Entschuldigen Sie, wo ist der Bahnhof?"
+        },
+        {
+            "word": "Vielen Dank",
+            "meaning": "Thank you very much",
+            "example": "Vielen Dank für Ihre Hilfe!"
+        },
+        {
+            "word": "Es tut mir leid",
+            "meaning": "I’m sorry",
+            "example": "Es tut mir leid, das war mein Fehler."
+        },
+        {
+            "word": "Könnten Sie bitte...",
+            "meaning": "Could you please...",
+            "example": "Könnten Sie bitte das Fenster schließen?"
+        }
+    ]
+}

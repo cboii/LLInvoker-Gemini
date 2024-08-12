@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing the Correct Ordinal Number",
+    "content": [
+        {
+            "sentence": "Il est arrivé en ___. (third)",
+            "options": [
+                {"choices": ["troisième", "quatrième", "cinquième"]}
+            ],
+            "answers": ["troisième"]
+        },
+        {
+            "sentence": "Elle est la ___. (first)",
+            "options": [
+                {"choices": ["première", "deuxième", "troisième"]}
+            ],
+            "answers": ["première"]
+        },
+        {
+            "sentence": "C'est le ___. (ninth)",
+            "options": [
+                {"choices": ["neuvième", "dixième", "septième"]}
+            ],
+            "answers": ["neuvième"]
+        },
+        {
+            "sentence": "Il est arrivé en ___. (seventh)",
+            "options": [
+                {"choices": ["septième", "huitième", "sixième"]}
+            ],
+            "answers": ["septième"]
+        }
+    ]
+}

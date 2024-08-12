@@ -1,0 +1,43 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Combined Review",
+    "content": [
+        {
+            "sentence": "___! Wie heißt du? (Hello)",
+            "options": [
+                {
+                    "choices": ["Guten Morgen", "Hallo"]
+                }
+            ],
+            "answers": ["Hallo"]
+        },
+        {
+            "sentence": "Ich ___ Max. (My name is)",
+            "options": [
+                {
+                    "choices": ["komme","heiße", "bin"]
+                }
+            ],
+            "answers": ["heiße"]
+        },
+        {
+            "sentence": "Ich ___ in München. (live)",
+            "options": [
+                {
+                    "choices": ["wohne", "komme"]
+                }
+            ],
+            "answers": ["wohne"]
+        },
+        {
+            "sentence": "Ich ___ 25 Jahre alt. (am)",
+            "options": [
+                {
+                    "choices": ["habe", "bin"]
+                }
+            ],
+            "answers": ["bin"]
+        }
+    ]
+}

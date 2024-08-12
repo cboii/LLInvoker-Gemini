@@ -1,0 +1,31 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Basic Greetings",
+    "content": [
+        {
+            "sentence": "___! (Hello)",
+            "answers": ["Hallo"]
+        },
+        {
+            "sentence": "___ Morgen! (Good morning)",
+            "answers": ["Guten"]
+        },
+        {
+            "sentence": "___ Abend! (Good evening)",
+            "answers": ["Guten"]
+        },
+        {
+            "sentence": "___ Nacht! (Good night)",
+            "answers": ["Gute"]
+        },
+        {
+            "sentence": "___! (Goodbye - informal)",
+            "answers": ["Tschüss"]
+        },
+        {
+            "sentence": "___ Wiedersehen! (Goodbye - formal)",
+            "answers": ["Auf"]
+        }
+    ]
+}

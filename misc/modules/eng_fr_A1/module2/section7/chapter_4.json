@@ -1,0 +1,35 @@
+{
+    "chapter": 4,
+    "type": 3,
+    "title": "5: Fill-in-the-Blank: Choosing the Correct Number",
+    "content": [
+        {
+            "sentence": "J'ai ___. (twenty-five)",
+            "options": [
+                {"choices": ["vingt-cinq", "cinquante", "quarante"]}
+            ],
+            "answers": ["vingt-cinq"]
+        },
+        {
+            "sentence": "Elle a ___. (sixty)",
+            "options": [
+                {"choices": ["soixante", "soixante-dix", "quatre-vingts"]}
+            ],
+            "answers": ["soixante"]
+        },
+        {
+            "sentence": "Il a ___. (eighty)",
+            "options": [
+                {"choices": ["quatre-vingts", "quatre-vingt-dix", "cent"]}
+            ],
+            "answers": ["quatre-vingts"]
+        },
+        {
+            "sentence": "Nous avons ___. (ninety)",
+            "options": [
+                {"choices": ["quatre-vingt-dix", "soixante", "cinquante"]}
+            ],
+            "answers": ["quatre-vingt-dix"]
+        }
+    ]
+}

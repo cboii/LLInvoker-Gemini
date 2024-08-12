@@ -1,0 +1,11 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: More Shapes in Context",
+    "content": [
+        {"sentence": "Ein Ei hat die Form eines ___. (oval)", "answers": ["Oval"]},
+        {"sentence": "Ein Weihnachtsbaum oben hat oft einen ___. (star)", "answers": ["Stern"]},
+        {"sentence": "Eine Karte für den Valentinstag hat oft ein ___. (heart)", "answers": ["Herz"]},
+        {"sentence": "Ein Diamant hat die Form einer ___. (diamond)", "answers": ["Raute"]}
+    ]
+}

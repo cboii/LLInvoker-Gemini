@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Ordinal Numbers Review",
+    "content": [
+        {
+            "sentence": "Il est le ___. (second)",
+            "options": [
+                {"choices": ["Deuxième", "Première", "Troisième"]}
+            ],
+            "answers": ["Deuxième"]
+        },
+        {
+            "sentence": "C'est le ___. (fourth)",
+            "options": [
+                {"choices": ["Quatrième", "Dixième", "Neuvième"]}
+            ],
+            "answers": ["Quatrième"]
+        },
+        {
+            "sentence": "Elle est la ___. (eighth)",
+            "options": [
+                {"choices": ["Huitième", "Sixième", "Cinquième"]}
+            ],
+            "answers": ["Huitième"]
+        },
+        {
+            "sentence": "Il est arrivé en ___. (sixth)",
+            "options": [
+                {"choices": ["Sixième", "Deuxième", "Première"]}
+            ],
+            "answers": ["Sixième"]
+        }
+    ]
+}

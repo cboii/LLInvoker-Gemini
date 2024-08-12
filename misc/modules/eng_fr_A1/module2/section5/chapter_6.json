@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Mixed Ordinal Numbers Practice",
+    "content": [
+        {"sentence": "C'est le ___. (first)", "answers": ["premier"]},
+        {"sentence": "Elle est la ___. (third)", "answers": ["troisième"]},
+        {"sentence": "Il est arrivé en ___. (fifth)", "answers": ["cinquième"]},
+        {"sentence": "C'est le ___. (tenth)", "answers": ["dixième"]}
+    ]
+}

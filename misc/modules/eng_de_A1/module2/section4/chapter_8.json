@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Shapes Review",
+    "content": [
+        {
+            "sentence": "Ein Stern ist eine ___. (star)",
+            "options": [
+                {"choices": ["Stern", "Raute", "Kreis"]}
+            ],
+            "answers": ["Stern"]
+        },
+        {
+            "sentence": "Ein Quadrat ist eine ___. (square)",
+            "options": [
+                {"choices": ["Quadrat", "Rechteck", "Oval"]}
+            ],
+            "answers": ["Quadrat"]
+        },
+        {
+            "sentence": "Ein Dreieck ist ein ___. (triangle)",
+            "options": [
+                {"choices": ["Dreieck", "Stern", "Herz"]}
+            ],
+            "answers": ["Dreieck"]
+        },
+        {
+            "sentence": "Ein Herz ist ein ___. (heart)",
+            "options": [
+                {"choices": ["Herz", "Raute", "Kreis"]}
+            ],
+            "answers": ["Herz"]
+        }
+    ]
+}

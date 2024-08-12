@@ -1,0 +1,32 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Asking and Answering Questions",
+    "vocabulary": [
+        {
+            "word": "D'où viens-tu?",
+            "meaning": "Where are you from?",
+            "example": "D'où viens-tu? - Je viens d'Allemagne."
+        },
+        {
+            "word": "Quel âge as-tu?",
+            "meaning": "How old are you?",
+            "example": "Quel âge as-tu? - J'ai 25 ans."
+        },
+        {
+            "word": "Que fais-tu?",
+            "meaning": "What do you do?",
+            "example": "Que fais-tu? - Je suis étudiant."
+        },
+        {
+            "word": "Où habites-tu?",
+            "meaning": "Where do you live?",
+            "example": "Où habites-tu? - J'habite à Berlin."
+        },
+        {
+            "word": "Quel est ton métier?",
+            "meaning": "What is your profession?",
+            "example": "Quel est ton métier? - Je suis enseignant."
+        }
+    ]
+}

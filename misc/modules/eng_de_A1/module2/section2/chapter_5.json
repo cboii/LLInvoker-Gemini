@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Numbers in Context",
+    "content": [
+        {
+            "sentence": "Wie viele Euro hast du? Ich habe ___. (30)",
+            "options": [
+                {"choices": ["dreißig", "vierzig", "fünfzig"]}
+            ],
+            "answers": ["dreißig"]
+        },
+        {
+            "sentence": "Wie alt ist er? Er ist ___. (21)",
+            "options": [
+                {"choices": ["einundzwanzig", "zweiundzwanzig", "dreiundzwanzig"]}
+            ],
+            "answers": ["einundzwanzig"]
+        },
+        {
+            "sentence": "Wie viele Bücher hast du? Ich habe ___. (40)",
+            "options": [
+                {"choices": ["vierzig", "fünfzig", "sechzig"]}
+            ],
+            "answers": ["vierzig"]
+        },
+        {
+            "sentence": "Wie viele Personen sind da? Es sind ___. (100)",
+            "options": [
+                {"choices": ["hundert", "neunzig", "achtzig"]}
+            ],
+            "answers": ["hundert"]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "chapter": 6,
+    "type": 7,
+    "title": "7: Pronoms personnels",
+    "vocabulary": [
+        {
+            "word": "ich",
+            "meaning": "je",
+            "example": "Ich bin müde. (Je suis fatigué.)"
+        },
+        {
+            "word": "du",
+            "meaning": "tu",
+            "example": "Du bist nett. (Tu es gentil.)"
+        },
+        {
+            "word": "er",
+            "meaning": "il",
+            "example": "Er ist mein Bruder. (Il est mon frère.)"
+        },
+        {
+            "word": "sie",
+            "meaning": "elle",
+            "example": "Sie ist meine Schwester. (Elle est ma sœur.)"
+        },
+        {
+            "word": "es",
+            "meaning": "il/elle (neutre)",
+            "example": "Es ist ein Hund. (C'est un chien.)"
+        },
+        {
+            "word": "wir",
+            "meaning": "nous",
+            "example": "Wir sind Freunde. (Nous sommes amis.)"
+        },
+        {
+            "word": "ihr",
+            "meaning": "vous (informel, pluriel)",
+            "example": "Ihr seid Schüler. (Vous êtes des élèves.)"
+        },
+        {
+            "word": "sie",
+            "meaning": "ils/elles",
+            "example": "Sie sind Lehrer. (Ils sont des enseignants.)"
+        },
+        {
+            "word": "Sie",
+            "meaning": "vous (formel)",
+            "example": "Sind Sie Lehrer? (Êtes-vous enseignant?)"
+        }
+    ]
+}

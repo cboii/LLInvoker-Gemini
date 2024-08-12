@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Colors Review",
+    "content": [
+        {
+            "sentence": "Die Katze ist ___. (black)",
+            "options": [
+                {"choices": ["schwarz", "weiß", "rot"]}
+            ],
+            "answers": ["schwarz"]
+        },
+        {
+            "sentence": "Der Himmel ist ___. (blue)",
+            "options": [
+                {"choices": ["blau", "grün", "grau"]}
+            ],
+            "answers": ["blau"]
+        },
+        {
+            "sentence": "Das Gras ist ___. (green)",
+            "options": [
+                {"choices": ["grün", "gelb", "orange"]}
+            ],
+            "answers": ["grün"]
+        },
+        {
+            "sentence": "Der Apfel ist ___. (red)",
+            "options": [
+                {"choices": ["rot", "blau", "gelb"]}
+            ],
+            "answers": ["rot"]
+        }
+    ]
+}

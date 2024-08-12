@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing the Right Color",
+    "content": [
+        {
+            "sentence": "Der Himmel ist ___. (blue)",
+            "options": [
+                {"choices": ["blau", "rot", "gelb"]}
+            ],
+            "answers": ["blau"]
+        },
+        {
+            "sentence": "Das Auto ist ___. (black)",
+            "options": [
+                {"choices": ["schwarz", "weiß", "grün"]}
+            ],
+            "answers": ["schwarz"]
+        },
+        {
+            "sentence": "Die Blume ist ___. (pink)",
+            "options": [
+                {"choices": ["rosa", "lila", "orange"]}
+            ],
+            "answers": ["rosa"]
+        },
+        {
+            "sentence": "Das Haus ist ___. (white)",
+            "options": [
+                {"choices": ["weiß", "grau", "blau"]}
+            ],
+            "answers": ["weiß"]
+        }
+    ]
+}

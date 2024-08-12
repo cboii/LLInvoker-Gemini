@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Describing Quantities",
+    "content": [
+        {"sentence": "Ich habe ___. (five)", "answers": ["fünf"]},
+        {"sentence": "Er hat ___. (ten)", "answers": ["zehn"]},
+        {"sentence": "Sie hat ___. (fifteen)", "answers": ["fünfzehn"]},
+        {"sentence": "Wir haben ___. (twenty)", "answers": ["zwanzig"]}
+    ]
+}

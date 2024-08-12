@@ -1,0 +1,27 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Basic Polite Phrases",
+    "content": [
+        {
+            "sentence": "___ ! (Thank you)",
+            "answers": ["Merci"]
+        },
+        {
+            "sentence": "___, ce n'est pas possible. (No)",
+            "answers": ["Non"]
+        },
+        {
+            "sentence": "___, c'est correct. (Yes)",
+            "answers": ["Oui"]
+        },
+        {
+            "sentence": "___ à la fête ! (Have fun)",
+            "answers": ["Amusez-vous bien"]
+        },
+        {
+            "sentence": "Tout le ___ pour votre anniversaire ! (All the best)",
+            "answers": ["meilleur"]
+        }
+    ]
+}

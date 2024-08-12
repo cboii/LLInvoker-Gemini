@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Mixed Color Practice",
+    "content": [
+        {"sentence": "Der Ball ist ___. (orange)", "answers": ["orange"]},
+        {"sentence": "Das Kleid ist ___. (purple)", "answers": ["lila"]},
+        {"sentence": "Der Elefant ist ___. (gray)", "answers": ["grau"]},
+        {"sentence": "Das Hemd ist ___. (blue)", "answers": ["blau"]}
+    ]
+}

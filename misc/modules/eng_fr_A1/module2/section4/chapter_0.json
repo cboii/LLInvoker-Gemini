@@ -1,0 +1,15 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Basic Shapes",
+    "vocabulary": [
+        {"word": "Cercle", "meaning": "Circle"},
+        {"word": "Carré", "meaning": "Square"},
+        {"word": "Triangle", "meaning": "Triangle"},
+        {"word": "Rectangle", "meaning": "Rectangle"},
+        {"word": "Ovale", "meaning": "Oval"},
+        {"word": "Étoile", "meaning": "Star"},
+        {"word": "Cœur", "meaning": "Heart"},
+        {"word": "Losange", "meaning": "Diamond"}
+    ]
+}

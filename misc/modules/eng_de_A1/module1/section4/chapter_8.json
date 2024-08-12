@@ -1,0 +1,23 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Personal Information Review",
+    "content": [
+        {
+            "sentence": "___ bist du? (How old)",
+            "answers": ["Wie alt"]
+        },
+        {
+            "sentence": "Ich ___ in München. (live)",
+            "answers": ["wohne"]
+        },
+        {
+            "sentence": "___ kommst du? (Where)",
+            "answers": ["Woher"]
+        },
+        {
+            "sentence": "Ich ___ Lehrer. (am)",
+            "answers": ["bin"]
+        }
+    ]
+}

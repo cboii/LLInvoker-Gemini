@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: More Family Relations",
+    "content": [
+        {
+            "sentence": "Mon __ est le mari de ma tante. (Uncle)",
+            "options": [
+                {"choices": ["oncle", "père", "frère"]}
+            ],
+            "answers": ["oncle"]
+        },
+        {
+            "sentence": "Ma __ est l'épouse de mon oncle. (Aunt)",
+            "options": [
+                {"choices": ["tante", "sœur", "mère"]}
+            ],
+            "answers": ["tante"]
+        },
+        {
+            "sentence": "Mon __ est le fils de mes parents. (Brother)",
+            "options": [
+                {"choices": ["frère", "père", "oncle"]}
+            ],
+            "answers": ["frère"]
+        },
+        {
+            "sentence": "Ma __ est la fille de mes parents. (Sister)",
+            "options": [
+                {"choices": ["sœur", "mère", "cousine"]}
+            ],
+            "answers": ["sœur"]
+        }
+    ]
+}

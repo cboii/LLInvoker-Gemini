@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: More Describing Relationships",
+    "content": [
+        {
+            "sentence": "Mon __ travaille dans le bureau à côté. (Colleague, male)",
+            "options": [
+                {"choices": ["Collègue", "Ami", "Voisin"]}
+            ],
+            "answers": ["Collègue"]
+        },
+        {
+            "sentence": "Ma __ est très amicale. (Neighbor, female)",
+            "options": [
+                {"choices": ["Voisine", "Amie", "Connaissance"]}
+            ],
+            "answers": ["Voisine"]
+        },
+        {
+            "sentence": "Il a beaucoup de __ qui vivent en ville. (Acquaintances, male)",
+            "options": [
+                {"choices": ["Connaissances", "Collègues", "Voisins"]}
+            ],
+            "answers": ["Connaissances"]
+        },
+        {
+            "sentence": "Elle est ma __, et nous travaillons ensemble. (Colleague, female)",
+            "options": [
+                {"choices": ["Collègue", "Voisine", "Amie"]}
+            ],
+            "answers": ["Collègue"]
+        }
+    ]
+}

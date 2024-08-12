@@ -1,0 +1,11 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Family Descriptions",
+    "content": [
+        {"sentence": "Ma tante est la __ de ma mère. (Aunt)", "answers": ["sœur"]},
+        {"sentence": "Mon oncle est le __ de mon père. (Uncle)", "answers": ["frère"]},
+        {"sentence": "Ma grand-mère est la __ de ma mère. (Grandmother)", "answers": ["mère"]},
+        {"sentence": "Mon cousin est le __ de mon oncle. (Cousin)", "answers": ["fils"]}
+    ]
+}

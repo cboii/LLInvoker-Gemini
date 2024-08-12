@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Mixed Shapes Practice",
+    "content": [
+        {"sentence": "Ein Ring ist ein ___. (circle)", "answers": ["Kreis"]},
+        {"sentence": "Ein Buch hat die Form eines ___. (rectangle)", "answers": ["Rechteck"]},
+        {"sentence": "Ein Diamant hat die Form einer ___. (diamond)", "answers": ["Raute"]},
+        {"sentence": "Ein Zelt hat oft die Form eines ___. (triangle)", "answers": ["Dreieck"]}
+    ]
+}

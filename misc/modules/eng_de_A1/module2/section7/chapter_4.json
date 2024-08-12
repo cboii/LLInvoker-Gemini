@@ -1,0 +1,35 @@
+{
+    "chapter": 4,
+    "type": 3,
+    "title": "5: Fill-in-the-Blank: Choosing the Correct Number",
+    "content": [
+        {
+            "sentence": "Ich habe ___. (twenty-five)",
+            "options": [
+                {"choices": ["fünfundzwanzig", "fünfzig", "vierzig"]}
+            ],
+            "answers": ["fünfundzwanzig"]
+        },
+        {
+            "sentence": "Sie hat ___. (sixty)",
+            "options": [
+                {"choices": ["sechzig", "siebzig", "achtzig"]}
+            ],
+            "answers": ["sechzig"]
+        },
+        {
+            "sentence": "Er hat ___. (eighty)",
+            "options": [
+                {"choices": ["achtzig", "neunzig", "hundert"]}
+            ],
+            "answers": ["achtzig"]
+        },
+        {
+            "sentence": "Wir haben ___. (ninety)",
+            "options": [
+                {"choices": ["neunzig", "sechzig", "fünfzig"]}
+            ],
+            "answers": ["neunzig"]
+        }
+    ]
+}

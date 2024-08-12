@@ -1,0 +1,16 @@
+{
+    "chapter": 4,
+    "type": 8,
+    "title": "5: The Verb 'avoir' (to have)",
+    "verb": "avoir",
+    "tenses": {
+        "Present": {
+            "je": "ai",
+            "tu": "as",
+            "il/elle/on": "a",
+            "nous": "avons",
+            "vous": "avez",
+            "ils/elles": "ont"
+        }
+    }
+}

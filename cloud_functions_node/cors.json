@@ -1,0 +1,7 @@
+[
+    {
+      "origin": ["https://llinvoker.web.app/", "https://llinvoker.firebaseapp.com/"],
+      "method": ["GET"],
+      "maxAgeSeconds": 3600
+    }
+  ]

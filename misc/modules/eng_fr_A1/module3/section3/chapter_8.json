@@ -1,0 +1,11 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Friendship Stories",
+    "content": [
+        {"sentence": "Mon ami ___ très gentil. (is)", "answers": ["est"]},
+        {"sentence": "Nous nous ___ à l'école. (met)", "answers": ["avons rencontré"]},
+        {"sentence": "Je lui ___. (trust)", "answers": ["fais confiance"]},
+        {"sentence": "___ est ma meilleure amie. (She)", "answers": ["Elle"]}
+    ]
+}

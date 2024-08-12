@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Simple Math with Numbers 0-10",
+    "content": [
+        {"sentence": "Zwei plus zwei ist ___. (4)", "answers": ["vier"]},
+        {"sentence": "Drei plus drei ist ___. (6)", "answers": ["sechs"]},
+        {"sentence": "Fünf minus zwei ist ___. (3)", "answers": ["drei"]},
+        {"sentence": "Acht minus vier ist ___. (4)", "answers": ["vier"]}
+    ]
+}

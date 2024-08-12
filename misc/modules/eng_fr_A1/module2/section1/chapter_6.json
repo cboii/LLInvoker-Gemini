@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Simple Math with Numbers 0-10",
+    "content": [
+        {"sentence": "Deux plus deux égale ___. (4)", "answers": ["quatre"]},
+        {"sentence": "Trois plus trois égale ___. (6)", "answers": ["six"]},
+        {"sentence": "Cinq moins deux égale ___. (3)", "answers": ["trois"]},
+        {"sentence": "Huit moins quatre égale ___. (4)", "answers": ["quatre"]}
+    ]
+}

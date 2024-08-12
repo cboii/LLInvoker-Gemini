@@ -1,0 +1,11 @@
+{
+    "chapter": 4,
+    "type": 1,
+    "title": "5: Fill-in-the-Blank: Numbers 40-100 in Sentences",
+    "content": [
+        {"sentence": "Ich habe ___ Euro. (50)", "answers": ["fünfzig"]},
+        {"sentence": "Sie ist ___ Jahre alt. (60)", "answers": ["sechzig"]},
+        {"sentence": "Wir sind ___ Personen. (70)", "answers": ["siebzig"]},
+        {"sentence": "Er hat ___ Bücher. (90)", "answers": ["neunzig"]}
+    ]
+}

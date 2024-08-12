@@ -1,0 +1,22 @@
+{
+    "chapter": 1,
+    "type": 5,
+    "title": "2: Reading Comprehension: Colors and Shapes in Daily Life",
+    "content": "Am Morgen trinke ich eine Tasse Kaffee. Der Becher ist blau. Danach ziehe ich ein rotes Hemd an und gehe zur Arbeit. Mein Büro ist im dritten Stock. Auf meinem Schreibtisch liegt ein quadratisches Notizbuch. Am Nachmittag esse ich einen Apfel, der grün ist. Nach der Arbeit gehe ich nach Hause und lese ein Buch. Das Buch ist oval und hat einen grauen Einband.",
+    "questions": [
+        "Welche Farbe hat der Becher?",
+        "Welche Farbe hat das Hemd?",
+        "In welchem Stock ist das Büro?",
+        "Welche Form hat das Notizbuch?",
+        "Welche Farbe hat der Apfel?",
+        "Welche Form hat das Buch?"
+    ],
+    "answers": [
+        "Der Becher ist blau.",
+        "Das Hemd ist rot.",
+        "Das Büro ist im dritten Stock.",
+        "Das Notizbuch ist quadratisch.",
+        "Der Apfel ist grün.",
+        "Das Buch ist oval."
+    ]
+}

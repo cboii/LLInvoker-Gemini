@@ -1,0 +1,23 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Fill-in-the-Blank: Personal Information",
+    "content": [
+        {
+            "sentence": "___ habites-tu ? (Where)",
+            "answers": ["Où"]
+        },
+        {
+            "sentence": "Je ___ 25 ans. (am)",
+            "answers": ["suis"]
+        },
+        {
+            "sentence": "Comment ___ ? (How are you)",
+            "answers": ["ça va"]
+        },
+        {
+            "sentence": "J'___ à Berlin. (live)",
+            "answers": ["habite"]
+        }
+    ]
+}

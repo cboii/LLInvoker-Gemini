@@ -1,0 +1,11 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: Numbers 0-10 in Sentences",
+    "content": [
+        {"sentence": "Ich habe ___ Äpfel. (3)", "answers": ["drei"]},
+        {"sentence": "Er ist ___ Jahre alt. (6)", "answers": ["sechs"]},
+        {"sentence": "Sie hat ___ Bücher. (9)", "answers": ["neun"]},
+        {"sentence": "Wir sind ___ Personen. (5)", "answers": ["fünf"]}
+    ]
+}

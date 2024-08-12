@@ -1,0 +1,17 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Ordinal Numbers 1st-10th",
+    "vocabulary": [
+        {"word": "Erste", "meaning": "First"},
+        {"word": "Zweite", "meaning": "Second"},
+        {"word": "Dritte", "meaning": "Third"},
+        {"word": "Vierte", "meaning": "Fourth"},
+        {"word": "Fünfte", "meaning": "Fifth"},
+        {"word": "Sechste", "meaning": "Sixth"},
+        {"word": "Siebte", "meaning": "Seventh"},
+        {"word": "Achte", "meaning": "Eighth"},
+        {"word": "Neunte", "meaning": "Ninth"},
+        {"word": "Zehnte", "meaning": "Tenth"}
+    ]
+}

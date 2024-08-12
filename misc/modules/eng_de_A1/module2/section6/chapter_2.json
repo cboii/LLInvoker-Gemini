@@ -1,0 +1,35 @@
+{
+    "chapter": 2,
+    "type": 3,
+    "title": "3: Fill-in-the-Blank: Choosing the Correct Shape",
+    "content": [
+        {
+            "sentence": "Ein Ball ist ein ___. (circle)",
+            "options": [
+                {"choices": ["Kreis", "Quadrat", "Dreieck"]}
+            ],
+            "answers": ["Kreis"]
+        },
+        {
+            "sentence": "Ein Buch hat die Form eines ___. (rectangle)",
+            "options": [
+                {"choices": ["Rechteck", "Oval", "Stern"]}
+            ],
+            "answers": ["Rechteck"]
+        },
+        {
+            "sentence": "Eine Karte für den Valentinstag hat oft ein ___. (heart)",
+            "options": [
+                {"choices": ["Herz", "Raute", "Kreis"]}
+            ],
+            "answers": ["Herz"]
+        },
+        {
+            "sentence": "Ein Weihnachtsbaum oben hat oft einen ___. (star)",
+            "options": [
+                {"choices": ["Stern", "Dreieck", "Rechteck"]}
+            ],
+            "answers": ["Stern"]
+        }
+    ]
+}

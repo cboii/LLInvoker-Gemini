@@ -1,0 +1,34 @@
+{
+    "chapter": 2,
+    "type": 3,
+    "title": "3: Fill-in-the-Blank: Polite Phrases in Context",
+    "content": [
+        {
+            "sentence": "___! Kannst du mir bitte helfen? (Please)",
+            "options": [
+                {
+                    "choices": ["Bitte", "Entschuldigung"]
+                }
+            ],
+            "answers": ["Bitte"]
+        },
+        {
+            "sentence": "Danke für deine Hilfe! ___! (You're welcome)",
+            "options": [
+                {
+                    "choices": ["Gern geschehen", "Kein Problem"]
+                }
+            ],
+            "answers": ["Gern geschehen"]
+        },
+        {
+            "sentence": "___, wo ist die Toilette? (Excuse me)",
+            "options": [
+                {
+                    "choices": ["Entschuldigung", "Bitte"]
+                }
+            ],
+            "answers": ["Entschuldigung"]
+        }
+    ]
+}

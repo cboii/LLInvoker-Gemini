@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: More Adjective Practice",
+    "content": [
+        {
+            "sentence": "Mein Vater ist __. (serious)",
+            "options": [
+                {"choices": ["ernst", "lustig", "intelligent"]}
+            ],
+            "answers": ["ernst"]
+        },
+        {
+            "sentence": "Meine Freundin ist __. (beautiful)",
+            "options": [
+                {"choices": ["schön", "hässlich", "klein"]}
+            ],
+            "answers": ["schön"]
+        },
+        {
+            "sentence": "Er ist __. (thin)",
+            "options": [
+                {"choices": ["dünn", "dick", "klein"]}
+            ],
+            "answers": ["dünn"]
+        },
+        {
+            "sentence": "Meine Schwester ist __. (young)",
+            "options": [
+                {"choices": ["jung", "alt", "groß"]}
+            ],
+            "answers": ["jung"]
+        }
+    ]
+}

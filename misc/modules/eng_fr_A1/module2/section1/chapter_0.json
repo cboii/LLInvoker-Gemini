@@ -1,0 +1,28 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Numbers 0-20",
+    "vocabulary": [
+        {"word": "Zéro", "meaning": "Zero"},
+        {"word": "Un", "meaning": "One"},
+        {"word": "Deux", "meaning": "Two"},
+        {"word": "Trois", "meaning": "Three"},
+        {"word": "Quatre", "meaning": "Four"},
+        {"word": "Cinq", "meaning": "Five"},
+        {"word": "Six", "meaning": "Six"},
+        {"word": "Sept", "meaning": "Seven"},
+        {"word": "Huit", "meaning": "Eight"},
+        {"word": "Neuf", "meaning": "Nine"},
+        {"word": "Dix", "meaning": "Ten"},
+        {"word": "Onze", "meaning": "Eleven"},
+        {"word": "Douze", "meaning": "Twelve"},
+        {"word": "Treize", "meaning": "Thirteen"},
+        {"word": "Quatorze", "meaning": "Fourteen"},
+        {"word": "Quinze", "meaning": "Fifteen"},
+        {"word": "Seize", "meaning": "Sixteen"},
+        {"word": "Dix-sept", "meaning": "Seventeen"},
+        {"word": "Dix-huit", "meaning": "Eighteen"},
+        {"word": "Dix-neuf", "meaning": "Nineteen"},
+        {"word": "Vingt", "meaning": "Twenty"}
+    ]
+}

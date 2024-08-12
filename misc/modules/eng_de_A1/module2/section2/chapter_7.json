@@ -1,0 +1,11 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Fill-in-the-Blank: Simple Math with Numbers 50-100",
+    "content": [
+        {"sentence": "Fünfzig plus zehn ist ___. (60)", "answers": ["sechzig"]},
+        {"sentence": "Neunzig minus zwanzig ist ___. (70)", "answers": ["siebzig"]},
+        {"sentence": "Achtzig minus dreißig ist ___. (50)", "answers": ["fünfzig"]},
+        {"sentence": "Hundert minus zehn ist ___. (90)", "answers": ["neunzig"]}
+    ]
+}

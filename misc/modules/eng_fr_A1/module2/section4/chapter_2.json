@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Identifying Shapes",
+    "content": [
+        {"sentence": "Une roue est un ___. (circle)", "answers": ["cercle"]},
+        {"sentence": "Un dé a la forme d'un ___. (square)", "answers": ["carré"]},
+        {"sentence": "Une pyramide a la forme d'un ___. (triangle)", "answers": ["triangle"]},
+        {"sentence": "Un écran a souvent la forme d'un ___. (rectangle)", "answers": ["rectangle"]}
+    ]
+}

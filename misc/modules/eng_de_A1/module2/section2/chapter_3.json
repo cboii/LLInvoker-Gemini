@@ -1,0 +1,11 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: Numbers 21-30 in Sentences",
+    "content": [
+        {"sentence": "Ich habe ___ Euro. (25)", "answers": ["fünfundzwanzig"]},
+        {"sentence": "Sie ist ___ Jahre alt. (28)", "answers": ["achtundzwanzig"]},
+        {"sentence": "Wir sind ___ Personen. (30)", "answers": ["dreißig"]},
+        {"sentence": "Er hat ___ Bücher. (22)", "answers": ["zweiundzwanzig"]}
+    ]
+}

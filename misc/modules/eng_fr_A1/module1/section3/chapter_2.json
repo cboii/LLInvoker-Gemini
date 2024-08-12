@@ -1,0 +1,34 @@
+{
+    "chapter": 2,
+    "type": 3,
+    "title": "3: Fill-in-the-Blank: Introducing Others",
+    "content": [
+        {
+            "sentence": "___ est-ce? (Who is that?)",
+            "options": [
+                {
+                    "choices": ["Où", "Qui", "Quoi"]
+                }
+            ],
+            "answers": ["Qui"]
+        },
+        {
+            "sentence": "C'est ___ ami. (This is my friend)",
+            "options": [
+                {
+                    "choices": ["son", "ton", "mon"]
+                }
+            ],
+            "answers": ["mon"]
+        },
+        {
+            "sentence": "Il ___ Max. (He is called)",
+            "options": [
+                {
+                    "choices": ["s'appelle", "est"]
+                }
+            ],
+            "answers": ["s'appelle"]
+        }
+    ]
+}

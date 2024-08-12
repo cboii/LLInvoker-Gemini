@@ -1,0 +1,35 @@
+{
+    "chapter": 3,
+    "type": 3,
+    "title": "4: Fill-in-the-Blank: Choosing the Correct Relationship Term",
+    "content": [
+        {
+            "sentence": "Sie sind seit fünf Jahren __. (Married)",
+            "options": [
+                {"choices": ["Verheiratet", "Geschieden", "Verlobt"]}
+            ],
+            "answers": ["Verheiratet"]
+        },
+        {
+            "sentence": "Er hat eine __, die in meiner Nachbarschaft wohnt. (Neighbor, female)",
+            "options": [
+                {"choices": ["Nachbarin", "Bekannte", "Freundin"]}
+            ],
+            "answers": ["Nachbarin"]
+        },
+        {
+            "sentence": "Meine __ arbeitet in der gleichen Firma. (Colleague, female)",
+            "options": [
+                {"choices": ["Kollegin", "Freundin", "Bekannte"]}
+            ],
+            "answers": ["Kollegin"]
+        },
+        {
+            "sentence": "Er ist mein __ seit der Schulzeit. (Friend, male)",
+            "options": [
+                {"choices": ["Freund", "Bekannter", "Kollege"]}
+            ],
+            "answers": ["Freund"]
+        }
+    ]
+}

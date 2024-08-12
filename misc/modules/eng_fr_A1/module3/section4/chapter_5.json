@@ -1,0 +1,11 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Describing Personality",
+    "content": [
+        {"sentence": "Ma professeure est très __. (serious)", "answers": ["sérieux"]},
+        {"sentence": "Mon ami est très __. (funny)", "answers": ["drôle"]},
+        {"sentence": "Le nouveau collègue est très __. (friendly)", "answers": ["amical"]},
+        {"sentence": "Elle peut parfois être __. (unfriendly)", "answers": ["froid"]}
+    ]
+}

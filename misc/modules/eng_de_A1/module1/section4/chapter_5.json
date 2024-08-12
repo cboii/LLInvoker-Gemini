@@ -1,0 +1,34 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Asking Personal Questions",
+    "content": [
+        {
+            "sentence": "___ kommst du? (Where)",
+            "options": [
+                {
+                    "choices": ["Wo", "Woher", "Wie"]
+                }
+            ],
+            "answers": ["Woher"]
+        },
+        {
+            "sentence": "___ alt bist du? (How)",
+            "options": [
+                {
+                    "choices": ["Was", "Wie"]
+                }
+            ],
+            "answers": ["Wie"]
+        },
+        {
+            "sentence": "___ ist dein Beruf? (What)",
+            "options": [
+                {
+                    "choices": ["Woher", "Was", "Wer"]
+                }
+            ],
+            "answers": ["Was"]
+        }
+    ]
+}

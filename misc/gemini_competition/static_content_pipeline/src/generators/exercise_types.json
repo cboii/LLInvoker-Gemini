@@ -1,0 +1,306 @@
+{
+        "section": "section1",
+        "title": "Module 1: Salutations et Présentations",
+        "chapters": [
+            {
+                "chapter": 7,
+                "type": 0,
+                "title": "8: Structure de base des phrases - Sujet-Verbe-Objet",
+                "content": "Les phrases principales en français suivent généralement une structure Sujet-Verbe-Objet (SVO), similaire à l'anglais. Le sujet effectue l'action, le verbe décrit l'action, et l'objet reçoit l'action.\n\nExemples:\n1. Je [Sujet] mange [Verbe] une pomme [Objet].\n   (I eat an apple.)\n\n2. Le chien [Sujet] poursuit [Verbe] le chat [Objet].\n   (The dog chases the cat.)\n\n3. Marie [Sujet] lit [Verbe] un livre [Objet].\n   (Marie reads a book.)\n\n4. Nous [Sujet] buvons [Verbe] du café [Objet].\n   (We drink coffee.)\n\n5. Les enfants [Sujet] jouent [Verbe] au football [Objet].\n   (The children play soccer.)\n\nNote: Bien que cette structure SVO soit courante, l'ordre des mots en français peut être plus flexible qu'en anglais, surtout pour mettre l'accent sur différentes parties de la phrase ou dans les propositions subordonnées. Cependant, dans les déclarations simples, SVO est l'ordre standard."
+            },
+            {
+                "chapter": 0,
+                "type": 1,
+                "title": "5: Exercice à trous: Présentations",
+                "content": "Je ___ (to be called) Marie.\n\nTu ___ (to be) un étudiant.\n\n___ (Good evening), ___ (How are you?)\n\n___ (Goodbye), à ___ (tomorrow)!\n\nNous ___ (come) de France.\n\nVous ___ (live) à Paris.\n\nIl ___ (to have) 25 ans.\n\nJe ___ (to speak) un peu français.",
+                "answers": [
+                    "m'appelle",
+                    "es",
+                    "Bonsoir",
+                    "comment allez-vous?",
+                    "Au revoir",
+                    "demain",
+                    "venons",
+                    "habitez",
+                    "a",
+                    "parle"
+                ]
+            },
+            {
+                "chapter": 1,
+                "type": 2,
+                "title": "4: Conjugaison: Verbe 'être'",
+                "content": [
+                    "je",
+                    "tu",
+                    "il/elle/on",
+                    "nous",
+                    "vous",
+                    "ils/elles"
+                ],
+                "answers": [
+                    "suis",
+                    "es",
+                    "est",
+                    "sommes",
+                    "êtes",
+                    "sont"
+                ]
+            },
+            {
+                "chapter": 2,
+                "type": 3,
+                "title": "2: Exercice à trous: Salutations",
+                "content": [
+                    {
+                        "sentence": "___ (Hello), je m'appelle Marie.",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Bonsoir",
+                                    "Bonjour",
+                                    "Au revoir",
+                                    "Salut"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Bonjour"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (Good evening), ___ (how are you)?",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Bonjour",
+                                    "Bonsoir",
+                                    "Au revoir",
+                                    "Salut"
+                                ]
+                            },
+                            {
+                                "choices": [
+                                    "comment allez-vous",
+                                    "ça va",
+                                    "enchanté",
+                                    "merci"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Bonsoir",
+                            "comment allez-vous"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (Goodbye), à ___ (tomorrow)!",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Bonsoir",
+                                    "Bonjour",
+                                    "Salut",
+                                    "Au revoir"
+                                ]
+                            },
+                            {
+                                "choices": [
+                                    "aujourd'hui",
+                                    "hier",
+                                    "demain",
+                                    "bientôt"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Au revoir",
+                            "demain"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (Welcome) en France! Comment vous ___ (to call oneself)?",
+                        "options": [
+                            {
+                                "choices": [
+                                    "S'il vous plaît",
+                                    "Enchanté",
+                                    "Bienvenue",
+                                    "De rien"
+                                ]
+                            },
+                            {
+                                "choices": [
+                                    "allez-vous",
+                                    "appelez-vous",
+                                    "êtes-vous",
+                                    "dites-vous"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Bienvenue",
+                            "appelez-vous"
+                        ]
+                    },
+                    {
+                        "sentence": "Merci beaucoup! ___ (You're welcome).",
+                        "options": [
+                            {
+                                "choices": [
+                                    "À bientôt",
+                                    "S'il vous plaît",
+                                    "De rien",
+                                    "Bonne nuit"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "De rien"
+                        ]
+                    }
+                ]
+            },
+            {
+                "chapter": 9,
+                "type": 4,
+                "title": "10: Exercice de vocabulaire: Salutations et présentations",
+                "answers": [
+                    "Hello",
+                    "Good morning",
+                    "My name is",
+                    "How are you?",
+                    "Good, thank you!",
+                    "Goodbye"
+                ],
+                "words": [
+                    "Bien, merci!",
+                    "Comment allez-vous?",
+                    "Au revoir",
+                    "Bonjour",
+                    "Je m'appelle",
+                    "Bonjour"
+                ]
+            },
+            {
+                "chapter": 10,
+                "type": 5,
+                "title": "11: Exercice de lecture: Salutations et présentations",
+                "content": "Bonjour, je m'appelle Anne. J'ai vingt ans et je viens de France. J'habite à Paris. J'ai un chien et un chat. Mon chien s'appelle Bruno et mon chat s'appelle Luna. J'étudie à l'université et j'apprends le français. Pendant mon temps libre, j'aime lire des livres et jouer de la guitare. Le week-end, je rencontre souvent mes amis au parc. Nous jouons au football et nous nous amusons beaucoup."
+            },
+            {
+                "chapter": 11,
+                "type": 6,
+                "title": "12: Questions-réponses: Dialogue",
+                "content": "Bonjour, je m'appelle Anne. J'ai vingt ans et je viens de France. J'habite à Paris. J'ai un chien et un chat. Mon chien s'appelle Bruno et mon chat s'appelle Luna. J'étudie à l'université et j'apprends le français. Pendant mon temps libre, j'aime lire des livres et jouer de la guitare. Le week-end, je rencontre souvent mes amis au parc. Nous jouons au football et nous nous amusons beaucoup.",
+                "questions": [
+                    "Comment s'appelle le chien?",
+                    "Où habite Anne?",
+                    "Que fait Anne pendant son temps libre?"
+                ],
+                "references": [
+                    "Le chien s'appelle Bruno.",
+                    "Anne habite à Paris.",
+                    "Anne lit des livres et joue de la guitare pendant son temps libre."
+                ]
+            },
+            {
+                "chapter": 0,
+                "type": 7,
+                "title": "1: Salutations de base",
+                "vocabulary": [
+                    {
+                        "word": "Bonjour",
+                        "meaning": "Hello/Good day"
+                    },
+                    {
+                        "word": "Salut",
+                        "meaning": "Hi (informal)"
+                    },
+                    {
+                        "word": "Bonsoir",
+                        "meaning": "Good evening"
+                    },
+                    {
+                        "word": "Au revoir",
+                        "meaning": "Goodbye"
+                    },
+                    {
+                        "word": "À bientôt",
+                        "meaning": "See you soon"
+                    },
+                    {
+                        "word": "Bonne nuit",
+                        "meaning": "Good night"
+                    },
+                    {
+                        "word": "Comment allez-vous?",
+                        "meaning": "How are you? (formal)"
+                    },
+                    {
+                        "word": "être",
+                        "meaning": "to be"
+                    },
+                    {
+                        "word": "Ça va?",
+                        "meaning": "How are you? (informal)"
+                    },
+                    {
+                        "word": "Enchanté(e)",
+                        "meaning": "Nice to meet you"
+                    },
+                    {
+                        "word": "S'il vous plaît",
+                        "meaning": "Please"
+                    },
+                    {
+                        "word": "avoir",
+                        "meaning": "to have"
+                    },
+                    {
+                        "word": "Merci",
+                        "meaning": "Thank you"
+                    },
+                    {
+                        "word": "De rien",
+                        "meaning": "You're welcome"
+                    },
+                    {
+                        "word": "Bienvenue",
+                        "meaning": "Welcome"
+                    }
+                ]
+            },
+            {
+                "chapter": 18,
+                "type": 8,
+                "title": "3: The verb \"sein\" (to be)",
+                "verb": "sein",
+                "tenses": {
+                    "Present": {
+                        "ich": "bin",
+                        "du": "bist",
+                        "er/sie/es": "ist",
+                        "wir": "sind",
+                        "ihr": "seid",
+                        "sie/Sie": "sind"
+                    },
+                    "Imperfect": {
+                        "ich": "war",
+                        "du": "warst",
+                        "er/sie/es": "war",
+                        "wir": "waren",
+                        "ihr": "wart",
+                        "sie/Sie": "waren"
+                    }
+                }
+                
+            },
+            {
+                "chapter": 19,
+                "type": 9,
+                "title": "20: Writing: Introductions",
+                "topic": "Introduce yourself to a new friend. Write a short paragraph about yourself. Include your name, age, where you are from, and where you live."
+            }
+    ]
+}

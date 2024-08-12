@@ -1,0 +1,23 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Basic Self-Introduction",
+    "content": [
+        {
+            "sentence": "___ m'appelle Anna. (I am called)",
+            "answers": ["Je"]
+        },
+        {
+            "sentence": "___ viens-tu? (Where are you from?)",
+            "answers": ["D'où"]
+        },
+        {
+            "sentence": "___ viens d'Allemagne. (I come from)",
+            "answers": ["Je"]
+        },
+        {
+            "sentence": "___ es-tu? (Who are you?)",
+            "answers": ["Qui"]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "chapter": 2,
+    "type": 3,
+    "title": "3: Fill-in-the-Blank: Introducing Others",
+    "content": [
+        {
+            "sentence": "___ ist das? (Who is that?)",
+            "options": [
+                {
+                    "choices": ["Wo", "Wer", "Was"]
+                }
+            ],
+            "answers": ["Wer"]
+        },
+        {
+            "sentence": "Das ist ___ Freund. (This is my friend)",
+            "options": [
+                {
+                    "choices": ["sein", "dein", "mein"]
+                }
+            ],
+            "answers": ["mein"]
+        },
+        {
+            "sentence": "Er ___ Max. (He is called)",
+            "options": [
+                {
+                    "choices": ["heißt", "ist"]
+                }
+            ],
+            "answers": ["heißt"]
+        }
+    ]
+}

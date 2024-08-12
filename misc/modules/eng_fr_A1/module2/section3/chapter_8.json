@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Colors Review",
+    "content": [
+        {
+            "sentence": "Le chat est ___. (black)",
+            "options": [
+                {"choices": ["noir", "blanc", "rouge"]}
+            ],
+            "answers": ["noir"]
+        },
+        {
+            "sentence": "Le ciel est ___. (blue)",
+            "options": [
+                {"choices": ["bleu", "vert", "gris"]}
+            ],
+            "answers": ["bleu"]
+        },
+        {
+            "sentence": "L'herbe est ___. (green)",
+            "options": [
+                {"choices": ["vert", "jaune", "orange"]}
+            ],
+            "answers": ["vert"]
+        },
+        {
+            "sentence": "La pomme est ___. (red)",
+            "options": [
+                {"choices": ["rouge", "bleu", "jaune"]}
+            ],
+            "answers": ["rouge"]
+        }
+    ]
+}

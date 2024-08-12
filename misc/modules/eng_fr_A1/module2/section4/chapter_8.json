@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Shapes Review",
+    "content": [
+        {
+            "sentence": "Une étoile est une ___. (star)",
+            "options": [
+                {"choices": ["Étoile", "Losange", "Cercle"]}
+            ],
+            "answers": ["Étoile"]
+        },
+        {
+            "sentence": "Un carré est un ___. (square)",
+            "options": [
+                {"choices": ["Carré", "Rectangle", "Ovale"]}
+            ],
+            "answers": ["Carré"]
+        },
+        {
+            "sentence": "Un triangle est un ___. (triangle)",
+            "options": [
+                {"choices": ["Triangle", "Étoile", "Cœur"]}
+            ],
+            "answers": ["Triangle"]
+        },
+        {
+            "sentence": "Un cœur est un ___. (heart)",
+            "options": [
+                {"choices": ["Cœur", "Losange", "Cercle"]}
+            ],
+            "answers": ["Cœur"]
+        }
+    ]
+}

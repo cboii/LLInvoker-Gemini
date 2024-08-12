@@ -1,0 +1,23 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Fill-in-the-Blank: Consolidating Polite Phrases",
+    "content": [
+        {
+            "sentence": "___, das war mein Fehler. (I’m sorry)",
+            "answers": ["Entschuldigung"]
+        },
+        {
+            "sentence": "Könnten Sie ___ das Fenster schließen? (Could you please)",
+            "answers": ["bitte"]
+        },
+        {
+            "sentence": "___ für die Einladung! (Thank you)",
+            "answers": ["Danke"]
+        },
+        {
+            "sentence": "Es tut mir ___. (I’m sorry)",
+            "answers": ["leid"]
+        }
+    ]
+}

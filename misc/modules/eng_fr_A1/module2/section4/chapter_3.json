@@ -1,0 +1,11 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: More Shapes in Context",
+    "content": [
+        {"sentence": "Un œuf a la forme d'un ___. (oval)", "answers": ["ovale"]},
+        {"sentence": "Un sapin de Noël a souvent une ___. (star) en haut.", "answers": ["étoile"]},
+        {"sentence": "Une carte pour la Saint-Valentin a souvent un ___. (heart)", "answers": ["cœur"]},
+        {"sentence": "Un diamant a la forme d'une ___. (diamond)", "answers": ["losange"]}
+    ]
+}

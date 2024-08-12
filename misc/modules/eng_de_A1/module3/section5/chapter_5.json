@@ -1,0 +1,22 @@
+{
+    "chapter": 5,
+    "type": 5,
+    "title": "6: Reading Comprehension: A Day with My Friend",
+    "content": "Mein bester Freund heißt Max. Wir kennen uns seit der Schule und verbringen viel Zeit zusammen. Max ist sehr intelligent und lustig. Wir haben uns in der sechsten Klasse kennengelernt. Max wohnt jetzt in meiner Nachbarschaft, und wir treffen uns oft nach der Schule. Seine Familie ist auch sehr freundlich. Max hat eine Schwester, die sehr hübsch und freundlich ist.",
+    "questions": [
+        "Wie heißt mein bester Freund?",
+        "Seit wann kennen wir uns?",
+        "Wie ist Max?",
+        "Wo wohnt Max?",
+        "Mit wem treffe ich mich oft nach der Schule?",
+        "Wie ist Max' Schwester?"
+    ],
+    "answers": [
+        "Mein bester Freund heißt Max.",
+        "Wir kennen uns seit der Schule.",
+        "Max ist sehr intelligent und lustig.",
+        "Max wohnt in meiner Nachbarschaft.",
+        "Ich treffe mich oft mit Max nach der Schule.",
+        "Max' Schwester ist sehr hübsch und freundlich."
+    ]
+}

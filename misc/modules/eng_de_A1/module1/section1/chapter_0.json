@@ -1,0 +1,42 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Basic Greetings - Vocabulary",
+    "vocabulary": [
+        {
+            "word": "Hallo",
+            "meaning": "Hello",
+            "example": "Hallo! Wie geht es dir?"
+        },
+        {
+            "word": "Guten Morgen",
+            "meaning": "Good morning",
+            "example": "Guten Morgen! Hast du gut geschlafen?"
+        },
+        {
+            "word": "Guten Tag",
+            "meaning": "Good day",
+            "example": "Guten Tag! Wie kann ich Ihnen helfen?"
+        },
+        {
+            "word": "Guten Abend",
+            "meaning": "Good evening",
+            "example": "Guten Abend! Wie war dein Tag?"
+        },
+        {
+            "word": "Gute Nacht",
+            "meaning": "Good night",
+            "example": "Gute Nacht! Schlaf gut."
+        },
+        {
+            "word": "Tschüss",
+            "meaning": "Goodbye",
+            "example": "Tschüss! Bis morgen."
+        },
+        {
+            "word": "Auf Wiedersehen",
+            "meaning": "Goodbye",
+            "example": "Auf Wiedersehen! Wir sehen uns bald."
+        }
+    ]
+}

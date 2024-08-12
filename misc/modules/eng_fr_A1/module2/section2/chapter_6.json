@@ -1,0 +1,11 @@
+{
+    "chapter": 6,
+    "type": 1,
+    "title": "7: Fill-in-the-Blank: Simple Math with Numbers 21-50",
+    "content": [
+        {"sentence": "Vingt-et-un plus quatre est ___. (25)", "answers": ["vingt-cinq"]},
+        {"sentence": "Trente moins cinq est ___. (25)", "answers": ["vingt-cinq"]},
+        {"sentence": "Vingt-deux plus huit est ___. (30)", "answers": ["trente"]},
+        {"sentence": "Quarante moins dix est ___. (30)", "answers": ["trente"]}
+    ]
+}

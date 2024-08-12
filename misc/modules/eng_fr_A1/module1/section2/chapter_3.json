@@ -1,0 +1,27 @@
+{
+    "chapter": 3,
+    "type": 7,
+    "title": "4: More Polite Phrases - Vocabulary",
+    "vocabulary": [
+        {
+            "word": "Excusez-moi",
+            "meaning": "Excuse me (formal)",
+            "example": "Excusez-moi, où est la gare ?"
+        },
+        {
+            "word": "Merci beaucoup",
+            "meaning": "Thank you very much",
+            "example": "Merci beaucoup pour votre aide !"
+        },
+        {
+            "word": "Je suis désolé",
+            "meaning": "I’m sorry",
+            "example": "Je suis désolé, c'était mon erreur."
+        },
+        {
+            "word": "Pourriez-vous s'il vous plaît...",
+            "meaning": "Could you please...",
+            "example": "Pourriez-vous s'il vous plaît fermer la fenêtre ?"
+        }
+    ]
+}

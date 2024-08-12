@@ -1,0 +1,35 @@
+{
+    "chapter": 7,
+    "type": 3,
+    "title": "8: Fill-in-the-Blank: Comprehensive Vocabulary Review",
+    "content": [
+        {
+            "sentence": "Der Apfel ist ___. (red)",
+            "options": [
+                {"choices": ["rot", "grün", "blau"]}
+            ],
+            "answers": ["rot"]
+        },
+        {
+            "sentence": "Ein Würfel ist ein ___. (square)",
+            "options": [
+                {"choices": ["Quadrat", "Kreis", "Rechteck"]}
+            ],
+            "answers": ["Quadrat"]
+        },
+        {
+            "sentence": "Ich habe ___. (ten)",
+            "options": [
+                {"choices": ["zehn", "zwanzig", "dreißig"]}
+            ],
+            "answers": ["zehn"]
+        },
+        {
+            "sentence": "Das Buch ist ___. (oval)",
+            "options": [
+                {"choices": ["oval", "kreis", "rechteck"]}
+            ],
+            "answers": ["oval"]
+        }
+    ]
+}

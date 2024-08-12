@@ -1,0 +1,16 @@
+{
+    "chapter": 2,
+    "type": 8,
+    "title": "3: The Verb 'gehen' (to go)",
+    "verb": "gehen",
+    "tenses": {
+        "Present": {
+            "ich": "gehe",
+            "du": "gehst",
+            "er/sie/es": "geht",
+            "wir": "gehen",
+            "ihr": "geht",
+            "sie/Sie": "gehen"
+        }
+    }
+}

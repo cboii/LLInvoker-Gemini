@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: More Friendship Phrases",
+    "content": [
+        {
+            "sentence": "Mein bester Freund ist __. (very nice)",
+            "options": [
+                {"choices": ["sehr nett", "sehr ruhig", "sehr laut"]}
+            ],
+            "answers": ["sehr nett"]
+        },
+        {
+            "sentence": "Wir __ uns seit der Schulzeit. (have known)",
+            "options": [
+                {"choices": ["kennen", "kennenlernen", "trennen"]}
+            ],
+            "answers": ["kennen"]
+        },
+        {
+            "sentence": "Er/Sie ist __. (my best friend)",
+            "options": [
+                {"choices": ["mein bester Freund", "mein Freund", "mein Kollege"]}
+            ],
+            "answers": ["mein bester Freund"]
+        },
+        {
+            "sentence": "Wir __ uns in der Universität kennengelernt. (met)",
+            "options": [
+                {"choices": ["haben", "hat", "haben wir"]}
+            ],
+            "answers": ["haben"]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Describing Relationship Status",
+    "content": [
+        {"sentence": "Mein Bruder ist __ und hat zwei Kinder. (Married)", "answers": ["Verheiratet"]},
+        {"sentence": "Meine Tante ist __ und lebt alleine. (Single)", "answers": ["Single"]},
+        {"sentence": "Meine Eltern sind __ und haben getrennte Wohnungen. (Divorced)", "answers": ["Geschieden"]},
+        {"sentence": "Sie sind __ und planen ihre Hochzeit. (Engaged)", "answers": ["Verlobt"]}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "chapter": 2,
+    "type": 3,
+    "title": "3: Fill-in-the-Blank: Choosing the Correct Shape",
+    "content": [
+        {
+            "sentence": "Un ballon est un ___. (circle)",
+            "options": [
+                {"choices": ["cercle", "carré", "triangle"]}
+            ],
+            "answers": ["cercle"]
+        },
+        {
+            "sentence": "Un livre a la forme d'un ___. (rectangle)",
+            "options": [
+                {"choices": ["rectangle", "ovale", "étoile"]}
+            ],
+            "answers": ["rectangle"]
+        },
+        {
+            "sentence": "Une carte pour la Saint-Valentin a souvent un ___. (heart)",
+            "options": [
+                {"choices": ["cœur", "losange", "cercle"]}
+            ],
+            "answers": ["cœur"]
+        },
+        {
+            "sentence": "Un sapin de Noël a souvent une ___. (star)",
+            "options": [
+                {"choices": ["étoile", "triangle", "rectangle"]}
+            ],
+            "answers": ["étoile"]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Extending Introductions",
+    "content": [
+        {
+            "sentence": "___ geht es dir? (How)",
+            "answers": ["Wie"]
+        },
+        {
+            "sentence": "Ich wohne ___ Berlin. (in)",
+            "answers": ["in"]
+        },
+        {
+            "sentence": "Und ___? (you)",
+            "answers": ["dir"]
+        },
+        {
+            "sentence": "Mir geht es ___. (fine)",
+            "answers": ["gut"]
+        }
+    ]
+}

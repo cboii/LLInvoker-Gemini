@@ -1,0 +1,37 @@
+{
+    "chapter": 6,
+    "type": 7,
+    "title": "7: Introducing Yourself - Vocabulary",
+    "vocabulary": [
+        {
+            "word": "Je m'appelle...",
+            "meaning": "My name is...",
+            "example": "Je m'appelle Maria."
+        },
+        {
+            "word": "Comment tu t'appelles ?",
+            "meaning": "What is your name?",
+            "example": "Comment tu t'appelles ? - Je m'appelle Lukas."
+        },
+        {
+            "word": "Mon nom est...",
+            "meaning": "My name is...",
+            "example": "Mon nom est Anna."
+        },
+        {
+            "word": "Qui es-tu ?",
+            "meaning": "Who are you?",
+            "example": "Qui es-tu ? - Je suis Thomas."
+        },
+        {
+            "word": "Je suis...",
+            "meaning": "I am...",
+            "example": "Je suis enseignant."
+        },
+        {
+            "word": "Enchanté de te rencontrer",
+            "meaning": "Nice to meet you",
+            "example": "Enchanté de te rencontrer !"
+        }
+    ]
+}

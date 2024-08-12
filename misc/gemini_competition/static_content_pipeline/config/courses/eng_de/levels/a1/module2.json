@@ -1,0 +1,113 @@
+{
+    "Module 2": {
+      "Sections": [
+        {
+          "title": "Section 1: Numbers (0-20)",
+          "vocabulary": {
+            "Null": "Zero",
+            "Eins": "One",
+            "Zwei": "Two",
+            "Drei": "Three",
+            "Vier": "Four",
+            "Fünf": "Five",
+            "Sechs": "Six",
+            "Sieben": "Seven",
+            "Acht": "Eight",
+            "Neun": "Nine",
+            "Zehn": "Ten",
+            "Elf": "Eleven",
+            "Zwölf": "Twelve",
+            "Dreizehn": "Thirteen",
+            "Vierzehn": "Fourteen",
+            "Fünfzehn": "Fifteen",
+            "Sechzehn": "Sixteen",
+            "Siebzehn": "Seventeen",
+            "Achtzehn": "Eighteen",
+            "Neunzehn": "Nineteen",
+            "Zwanzig": "Twenty"
+          }
+        },
+        {
+          "title": "Section 2: Numbers (21-100)",
+          "vocabulary": {
+            "Einundzwanzig": "Twenty-one",
+            "Zweiundzwanzig": "Twenty-two",
+            "Dreiundzwanzig": "Twenty-three",
+            "Vierundzwanzig": "Twenty-four",
+            "Fünfundzwanzig": "Twenty-five",
+            "Sechsundzwanzig": "Twenty-six",
+            "Siebenundzwanzig": "Twenty-seven",
+            "Achtundzwanzig": "Twenty-eight",
+            "Neunundzwanzig": "Twenty-nine",
+            "Dreißig": "Thirty",
+            "Vierzig": "Forty",
+            "Fünfzig": "Fifty",
+            "Sechzig": "Sixty",
+            "Siebzig": "Seventy",
+            "Achtzig": "Eighty",
+            "Neunzig": "Ninety",
+            "Hundert": "One hundred"
+          }
+        },
+        {
+          "title": "Section 3: Basic Colors",
+          "vocabulary": {
+            "Rot": "Red",
+            "Blau": "Blue",
+            "Grün": "Green",
+            "Gelb": "Yellow",
+            "Schwarz": "Black",
+            "Weiß": "White",
+            "Braun": "Brown",
+            "Orange": "Orange",
+            "Rosa": "Pink",
+            "Lila": "Purple",
+            "Grau": "Gray"
+          }
+        },
+        {
+          "title": "Section 4: Basic Shapes",
+          "vocabulary": {
+            "Kreis": "Circle",
+            "Quadrat": "Square",
+            "Dreieck": "Triangle",
+            "Rechteck": "Rectangle",
+            "Oval": "Oval",
+            "Stern": "Star",
+            "Herz": "Heart",
+            "Raute": "Diamond"
+          }
+        },
+        {
+          "title": "Section 5: Ordinal Numbers (1st-10th)",
+          "vocabulary": {
+            "Erste": "First",
+            "Zweite": "Second",
+            "Dritte": "Third",
+            "Vierte": "Fourth",
+            "Fünfte": "Fifth",
+            "Sechste": "Sixth",
+            "Siebte": "Seventh",
+            "Achte": "Eighth",
+            "Neunte": "Ninth",
+            "Zehnte": "Tenth"
+          }
+        },
+        {
+          "title": "Section 6: Review and Reinforcement 1",
+          "vocabulary": {
+            "Review and practice of vocabulary from Sections 1-5 through various exercises": "",
+            "No new vocabulary introduced": ""
+          }
+        },
+        {
+          "title": "Section 7: Review and Reinforcement 2",
+          "vocabulary": {
+            "Further review and practice of vocabulary from Sections 1-5 through more complex exercises": "",
+            "No new vocabulary introduced": ""
+          }
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,21 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Family Members",
+    "vocabulary": [
+        {"word": "Vater", "meaning": "Father"},
+        {"word": "Mutter", "meaning": "Mother"},
+        {"word": "Bruder", "meaning": "Brother"},
+        {"word": "Schwester", "meaning": "Sister"},
+        {"word": "Opa", "meaning": "Grandfather"},
+        {"word": "Oma", "meaning": "Grandmother"},
+        {"word": "Onkel", "meaning": "Uncle"},
+        {"word": "Tante", "meaning": "Aunt"},
+        {"word": "Cousin", "meaning": "Cousin (male)"},
+        {"word": "Cousine", "meaning": "Cousin (female)"},
+        {"word": "Sohn", "meaning": "Son"},
+        {"word": "Tochter", "meaning": "Daughter"},
+        {"word": "Ehemann", "meaning": "Husband"},
+        {"word": "Ehefrau", "meaning": "Wife"}
+    ]
+}

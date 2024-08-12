@@ -1,0 +1,24 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Numbers 21-100",
+    "vocabulary": [
+        {"word": "Einundzwanzig", "meaning": "Twenty-one"},
+        {"word": "Zweiundzwanzig", "meaning": "Twenty-two"},
+        {"word": "Dreiundzwanzig", "meaning": "Twenty-three"},
+        {"word": "Vierundzwanzig", "meaning": "Twenty-four"},
+        {"word": "Fünfundzwanzig", "meaning": "Twenty-five"},
+        {"word": "Sechsundzwanzig", "meaning": "Twenty-six"},
+        {"word": "Siebenundzwanzig", "meaning": "Twenty-seven"},
+        {"word": "Achtundzwanzig", "meaning": "Twenty-eight"},
+        {"word": "Neunundzwanzig", "meaning": "Twenty-nine"},
+        {"word": "Dreißig", "meaning": "Thirty"},
+        {"word": "Vierzig", "meaning": "Forty"},
+        {"word": "Fünfzig", "meaning": "Fifty"},
+        {"word": "Sechzig", "meaning": "Sixty"},
+        {"word": "Siebzig", "meaning": "Seventy"},
+        {"word": "Achtzig", "meaning": "Eighty"},
+        {"word": "Neunzig", "meaning": "Ninety"},
+        {"word": "Hundert", "meaning": "One hundred"}
+    ]
+}

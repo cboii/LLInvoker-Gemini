@@ -1,0 +1,62 @@
+{
+    "chapter": 3,
+    "type": 7,
+    "title": "4: Se présenter",
+    "vocabulary": [
+        {
+            "word": "Wie geht es Ihnen/dir?",
+            "meaning": "Comment allez-vous/vas-tu? (formel/informel)",
+            "example": "Wie geht es Ihnen, Frau Schmidt?"
+        },
+        {
+            "word": "Gut, danke!",
+            "meaning": "Bien, merci!",
+            "example": "Gut, danke!"
+        },
+        {
+            "word": "Und Ihnen/dir?",
+            "meaning": "Et vous/toi? (formel/informel)",
+            "example": "Und Ihnen, Frau Schmidt?"
+        },
+        {
+            "word": "Was machen Sie/machst du?",
+            "meaning": "Que faites-vous/fais-tu? (formel/informel)",
+            "example": "Was machen Sie, Frau Schmidt?"
+        },
+        {
+            "word": "ich komme aus",
+            "meaning": "Je viens de",
+            "example": "Ich komme aus Deutschland."
+        },
+        {
+            "word": "ich wohne in",
+            "meaning": "J'habite à",
+            "example": "Ich wohne in Berlin."
+        },
+        {
+            "word": "Es freut mich!",
+            "meaning": "Enchanté!",
+            "example": "Es freut mich, Sie kennenzulernen."
+        },
+        {
+            "word": "Wie alt sind Sie/bist du?",
+            "meaning": "Quel âge avez-vous/as-tu? (formel/informel)",
+            "example": "Wie alt sind Sie, Frau Schmidt?"
+        },
+        {
+            "word": "Ich bin ... Jahre alt",
+            "meaning": "J'ai ... ans",
+            "example": "Ich bin 25 Jahre alt."
+        },
+        {
+            "word": "Sprechen Sie/Sprichst du Deutsch?",
+            "meaning": "Parlez-vous/Parles-tu allemand? (formel/informel)",
+            "example": "Sprechen Sie Deutsch, Frau Schmidt?"
+        },
+        {
+            "word": "ein bisschen",
+            "meaning": "un peu",
+            "example": "Ich spreche ein bisschen Deutsch."
+        }
+    ]
+}

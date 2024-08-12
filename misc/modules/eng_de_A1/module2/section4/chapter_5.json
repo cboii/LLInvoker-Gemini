@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing the Right Shape",
+    "content": [
+        {
+            "sentence": "Ein Rad ist ein ___. (circle)",
+            "options": [
+                {"choices": ["Kreis", "Quadrat", "Dreieck"]}
+            ],
+            "answers": ["Kreis"]
+        },
+        {
+            "sentence": "Ein Würfel ist ein ___. (square)",
+            "options": [
+                {"choices": ["Quadrat", "Rechteck", "Oval"]}
+            ],
+            "answers": ["Quadrat"]
+        },
+        {
+            "sentence": "Ein Ei ist ein ___. (oval)",
+            "options": [
+                {"choices": ["Oval", "Raute", "Herz"]}
+            ],
+            "answers": ["Oval"]
+        },
+        {
+            "sentence": "Ein Weihnachtsbaum hat einen ___. (star)",
+            "options": [
+                {"choices": ["Stern", "Dreieck", "Rechteck"]}
+            ],
+            "answers": ["Stern"]
+        }
+    ]
+}

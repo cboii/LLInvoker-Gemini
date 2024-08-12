@@ -1,0 +1,21 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Basic Adjectives to Describe People",
+    "vocabulary": [
+        {"word": "Groß", "meaning": "Tall"},
+        {"word": "Klein", "meaning": "Short"},
+        {"word": "Jung", "meaning": "Young"},
+        {"word": "Alt", "meaning": "Old"},
+        {"word": "Schön", "meaning": "Beautiful"},
+        {"word": "Hübsch", "meaning": "Pretty"},
+        {"word": "Hässlich", "meaning": "Ugly"},
+        {"word": "Dünn", "meaning": "Thin"},
+        {"word": "Dick", "meaning": "Thick/Fat"},
+        {"word": "Freundlich", "meaning": "Friendly"},
+        {"word": "Unfreundlich", "meaning": "Unfriendly"},
+        {"word": "Intelligent", "meaning": "Intelligent"},
+        {"word": "Lustig", "meaning": "Funny"},
+        {"word": "Ernst", "meaning": "Serious"}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "chapter": 3,
+    "type": 3,
+    "title": "4: Fill-in-the-Blank: Choosing the Correct Adjective",
+    "content": [
+        {
+            "sentence": "Meine Oma ist __. (old)",
+            "options": [
+                {"choices": ["alt", "jung", "hübsch"]}
+            ],
+            "answers": ["alt"]
+        },
+        {
+            "sentence": "Er ist sehr __. (intelligent)",
+            "options": [
+                {"choices": ["intelligent", "lustig", "ernst"]}
+            ],
+            "answers": ["intelligent"]
+        },
+        {
+            "sentence": "Das Mädchen ist __. (friendly)",
+            "options": [
+                {"choices": ["freundlich", "unfreundlich", "hässlich"]}
+            ],
+            "answers": ["freundlich"]
+        },
+        {
+            "sentence": "Der Junge ist __. (funny)",
+            "options": [
+                {"choices": ["lustig", "ernst", "dick"]}
+            ],
+            "answers": ["lustig"]
+        }
+    ]
+}

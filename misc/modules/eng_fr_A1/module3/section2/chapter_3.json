@@ -1,0 +1,35 @@
+{
+    "chapter": 3,
+    "type": 3,
+    "title": "4: Fill-in-the-Blank: Choosing the Correct Relationship Term",
+    "content": [
+        {
+            "sentence": "Ils sont mariés depuis cinq ans ___. (Married)",
+            "options": [
+                {"choices": ["mariés", "divorcés", "fiancés"]}
+            ],
+            "answers": ["mariés"]
+        },
+        {
+            "sentence": "Elle est une ___ qui vit dans mon quartier. (Neighbor, female)",
+            "options": [
+                {"choices": ["voisine", "connaissante", "amie"]}
+            ],
+            "answers": ["voisine"]
+        },
+        {
+            "sentence": "Ma ___ travaille dans la même entreprise. (Colleague, female)",
+            "options": [
+                {"choices": ["collègue", "amie", "connaissante"]}
+            ],
+            "answers": ["collègue"]
+        },
+        {
+            "sentence": "Il est mon ___ depuis l'école. (Friend, male)",
+            "options": [
+                {"choices": ["ami", "connaissant", "collègue"]}
+            ],
+            "answers": ["ami"]
+        }
+    ]
+}

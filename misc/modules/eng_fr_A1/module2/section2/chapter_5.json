@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Numbers in Context",
+    "content": [
+        {
+            "sentence": "Combien d'euros as-tu ? J'ai ___. (30)",
+            "options": [
+                {"choices": ["trente", "quarante", "cinquante"]}
+            ],
+            "answers": ["trente"]
+        },
+        {
+            "sentence": "Quel âge a-t-il ? Il a ___. (21)",
+            "options": [
+                {"choices": ["vingt-et-un", "vingt-deux", "vingt-trois"]}
+            ],
+            "answers": ["vingt-et-un"]
+        },
+        {
+            "sentence": "Combien de livres as-tu ? J'ai ___. (40)",
+            "options": [
+                {"choices": ["quarante", "cinquante", "soixante"]}
+            ],
+            "answers": ["quarante"]
+        },
+        {
+            "sentence": "Combien de personnes sont là ? Il y a ___. (100)",
+            "options": [
+                {"choices": ["cent", "quatre-vingt-dix", "quatre-vingts"]}
+            ],
+            "answers": ["cent"]
+        }
+    ]
+}

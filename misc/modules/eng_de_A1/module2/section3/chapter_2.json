@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Describing Objects by Color",
+    "content": [
+        {"sentence": "Der Apfel ist ___. (red)", "answers": ["rot"]},
+        {"sentence": "Das Meer ist ___. (blue)", "answers": ["blau"]},
+        {"sentence": "Das Gras ist ___. (green)", "answers": ["grün"]},
+        {"sentence": "Die Sonne ist ___. (yellow)", "answers": ["gelb"]}
+    ]
+}

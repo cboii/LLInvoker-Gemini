@@ -1,0 +1,11 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Fill-in-the-Blank: Simple Math with Numbers 11-20",
+    "content": [
+        {"sentence": "Douze plus trois égale ___. (15)", "answers": ["quinze"]},
+        {"sentence": "Treize moins un égale ___. (12)", "answers": ["douze"]},
+        {"sentence": "Dix-sept moins sept égale ___. (10)", "answers": ["dix"]},
+        {"sentence": "Vingt moins cinq égale ___. (15)", "answers": ["quinze"]}
+    ]
+}

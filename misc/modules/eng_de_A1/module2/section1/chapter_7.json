@@ -1,0 +1,11 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Fill-in-the-Blank: Simple Math with Numbers 11-20",
+    "content": [
+        {"sentence": "Zwölf plus drei ist ___. (15)", "answers": ["fünfzehn"]},
+        {"sentence": "Dreizehn minus eins ist ___. (12)", "answers": ["zwölf"]},
+        {"sentence": "Siebzehn minus sieben ist ___. (10)", "answers": ["zehn"]},
+        {"sentence": "Zwanzig minus fünf ist ___. (15)", "answers": ["fünfzehn"]}
+    ]
+}

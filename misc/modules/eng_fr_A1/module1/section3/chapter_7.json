@@ -1,0 +1,16 @@
+{
+    "chapter": 7,
+    "type": 8,
+    "title": "8: The Verb 'être' (to be)",
+    "verb": "être",
+    "tenses": {
+        "Present": {
+            "je": "suis",
+            "tu": "es",
+            "il/elle/on": "est",
+            "nous": "sommes",
+            "vous": "êtes",
+            "ils/elles": "sont"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "chapter": 4,
+    "type": 1,
+    "title": "5: Fill-in-the-Blank: Using Ordinal Numbers",
+    "content": [
+        {"sentence": "Il est le ___. (first)", "answers": ["Première"]},
+        {"sentence": "C'est le ___. (third)", "answers": ["Troisième"]},
+        {"sentence": "Elle est arrivée en ___. (fifth)", "answers": ["Cinquième"]},
+        {"sentence": "Il est le ___. (tenth)", "answers": ["Dixième"]}
+    ]
+}

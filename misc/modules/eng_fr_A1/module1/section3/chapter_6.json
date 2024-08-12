@@ -1,0 +1,34 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: Combining Introductions",
+    "content": [
+        {
+            "sentence": "Je m'___ Max. (My name is)",
+            "options": [
+                {
+                    "choices": ["appelle", "suis", "nomme"]
+                }
+            ],
+            "answers": ["appelle"]
+        },
+        {
+            "sentence": "___ t'appelles-tu? (What is your name?)",
+            "options": [
+                {
+                    "choices": ["Où", "Quoi", "Comment"]
+                }
+            ],
+            "answers": ["Comment"]
+        },
+        {
+            "sentence": "Je ___ des États-Unis. (I come from)",
+            "options": [
+                {
+                    "choices": ["viens", "suis", "habite"]
+                }
+            ],
+            "answers": ["viens"]
+        }
+    ]
+}

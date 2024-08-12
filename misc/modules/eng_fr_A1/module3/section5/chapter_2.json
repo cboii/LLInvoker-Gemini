@@ -1,0 +1,35 @@
+{
+    "chapter": 2,
+    "type": 3,
+    "title": "3: Fill-in-the-Blank: Choosing the Correct Adjective",
+    "content": [
+        {
+            "sentence": "Mon frère est très __. (tall)",
+            "options": [
+                {"choices": ["grand", "petit", "jeune"]}
+            ],
+            "answers": ["grand"]
+        },
+        {
+            "sentence": "Ma sœur est __. (pretty)",
+            "options": [
+                {"choices": ["jolie", "laide", "grosse"]}
+            ],
+            "answers": ["jolie"]
+        },
+        {
+            "sentence": "Il est très __. (intelligent)",
+            "options": [
+                {"choices": ["intelligent", "amical", "sérieux"]}
+            ],
+            "answers": ["intelligent"]
+        },
+        {
+            "sentence": "L'homme est __. (old)",
+            "options": [
+                {"choices": ["vieux", "jeune", "mince"]}
+            ],
+            "answers": ["vieux"]
+        }
+    ]
+}

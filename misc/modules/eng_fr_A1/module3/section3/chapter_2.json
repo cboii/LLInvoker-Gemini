@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Describing Friendships",
+    "content": [
+        {"sentence": "Mon meilleur ami s'appelle Max. ___ est très sympa. (He)", "answers": ["Il"]},
+        {"sentence": "Nous nous connaissons ___ l'école. (since)", "answers": ["depuis"]},
+        {"sentence": "Nous nous sommes rencontrés ___ l'université. (in)", "answers": ["à"]},
+        {"sentence": "Je fais beaucoup confiance ___. (him/her)", "answers": ["à lui/à elle"]}
+    ]
+}

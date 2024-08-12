@@ -1,0 +1,37 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing Polite Phrases",
+    "content": [
+        {
+            "sentence": "___ für die Hilfe! (Thank you)",
+            "options": [
+                {
+                    "choices": ["Bitte", "Danke"]
+                }
+            ],
+            "answers": ["Danke"]
+        },
+        {
+            "sentence": "___, es tut mir ___! (Excuse me/I’m sorry)",
+            "options": [
+                {
+                    "choices": ["Entschuldigung", "Es tut mir leid"]
+                },
+                {
+                    "choices": ["leid", "gut"]
+                }
+            ],
+            "answers": ["Entschuldigung", "leid"]
+        },
+        {
+            "sentence": "___ das Fenster schließen? (Could you please/Excuse me)",
+            "options": [
+                {
+                    "choices": ["Könnten Sie bitte", "Entschuldigen Sie"]
+                }
+            ],
+            "answers": ["Könnten Sie bitte"]
+        }
+    ]
+}

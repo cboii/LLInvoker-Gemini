@@ -1,0 +1,35 @@
+{
+    "chapter": 3,
+    "type": 3,
+    "title": "4: Fill-in-the-Blank: Choosing the Correct Friendship Phrase",
+    "content": [
+        {
+            "sentence": "Er ist __. (my best friend, male)",
+            "options": [
+                {"choices": ["mein bester Freund", "mein Freund", "mein Kollege"]}
+            ],
+            "answers": ["mein bester Freund"]
+        },
+        {
+            "sentence": "Sie ist __. (my friend, female)",
+            "options": [
+                {"choices": ["meine Freundin", "meine Kollegin", "meine Schwester"]}
+            ],
+            "answers": ["meine Freundin"]
+        },
+        {
+            "sentence": "Wir verbringen __ zusammen. (a lot of time)",
+            "options": [
+                {"choices": ["viel Zeit", "wenig Zeit", "keine Zeit"]}
+            ],
+            "answers": ["viel Zeit"]
+        },
+        {
+            "sentence": "Ich vertraue __. (him/her)",
+            "options": [
+                {"choices": ["ihm/ihr", "ihnen", "uns"]}
+            ],
+            "answers": ["ihm/ihr"]
+        }
+    ]
+}

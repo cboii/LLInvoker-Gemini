@@ -1,0 +1,37 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing Polite Phrases",
+    "content": [
+        {
+            "sentence": "___ pour l'aide ! (Thank you)",
+            "options": [
+                {
+                    "choices": ["S'il vous plaît", "Merci"]
+                }
+            ],
+            "answers": ["Merci"]
+        },
+        {
+            "sentence": "___, je suis ___ ! (Excuse me/I’m sorry)",
+            "options": [
+                {
+                    "choices": ["Excusez-moi", "Je suis désolé"]
+                },
+                {
+                    "choices": ["désolé", "bien"]
+                }
+            ],
+            "answers": ["Excusez-moi", "désolé"]
+        },
+        {
+            "sentence": "___ fermer la fenêtre ? (Could you please/Excuse me)",
+            "options": [
+                {
+                    "choices": ["Pourriez-vous s'il vous plaît", "Excusez-moi"]
+                }
+            ],
+            "answers": ["Pourriez-vous s'il vous plaît"]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Family Tree",
+    "content": [
+        {"sentence": "Der __ meiner Mutter ist mein Vater. (Father)", "answers": ["Ehemann"]},
+        {"sentence": "Die __ meines Vaters ist meine Mutter. (Mother)", "answers": ["Ehefrau"]},
+        {"sentence": "Der __ meiner Schwester ist mein Bruder. (Brother)", "answers": ["Bruder"]},
+        {"sentence": "Die __ meines Bruders ist meine Schwester. (Sister)", "answers": ["Schwester"]}
+    ]
+}

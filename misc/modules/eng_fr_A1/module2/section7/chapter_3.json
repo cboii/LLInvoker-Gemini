@@ -1,0 +1,11 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: Describing Objects by Shape",
+    "content": [
+        {"sentence": "Un livre a la forme d'un ___. (rectangle)", "answers": ["rectangle"]},
+        {"sentence": "Un anneau est un ___. (circle)", "answers": ["cercle"]},
+        {"sentence": "Un cœur est un ___. (heart)", "answers": ["cœur"]},
+        {"sentence": "Une tente a souvent la forme d'un ___. (triangle)", "answers": ["triangle"]}
+    ]
+}

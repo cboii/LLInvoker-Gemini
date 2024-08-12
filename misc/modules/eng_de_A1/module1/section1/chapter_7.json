@@ -1,0 +1,18 @@
+{
+  "chapter": 7,
+  "type": 6,
+  "title": "8: Asking and Answering Questions about Yourself",
+  "content": "Ich heiße Anna. Ich komme aus Deutschland. Ich wohne in Berlin. Ich bin 25 Jahre alt.",
+  "questions": [
+      "Wie heißt du?",
+      "Woher kommst du?",
+      "Wo wohnst du?",
+      "Wie alt bist du?"
+  ],
+  "references": [
+      "Ich heiße Anna.",
+      "Ich komme aus Deutschland.",
+      "Ich wohne in Berlin.",
+      "Ich bin 25 Jahre alt."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "chapter": 3,
+    "type": 8,
+    "title": "4: The Verb 'wohnen' (to live)",
+    "verb": "wohnen",
+    "tenses": {
+        "Present": {
+            "ich": "wohne",
+            "du": "wohnst",
+            "er/sie/es": "wohnt",
+            "wir": "wohnen",
+            "ihr": "wohnt",
+            "sie/Sie": "wohnen"
+        }
+    }
+}

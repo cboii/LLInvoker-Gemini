@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Describing Physical Appearance",
+    "content": [
+        {"sentence": "Mein Bruder ist sehr __. (tall)", "answers": ["groß"]},
+        {"sentence": "Meine Schwester ist __. (pretty)", "answers": ["hübsch"]},
+        {"sentence": "Der Mann ist __. (old)", "answers": ["alt"]},
+        {"sentence": "Das Kind ist sehr __. (young)", "answers": ["jung"]}
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Basic Greetings - Vocabulary",
+    "vocabulary": [
+        {
+            "word": "Salut",
+            "meaning": "Hello",
+            "example": "Salut ! Comment ça va ?"
+        },
+        {
+            "word": "Bonjour",
+            "meaning": "Good morning",
+            "example": "Bonjour ! As-tu bien dormi ?"
+        },
+        {
+            "word": "Bonjour",
+            "meaning": "Good day",
+            "example": "Bonjour ! Comment puis-je vous aider ?"
+        },
+        {
+            "word": "Bonsoir",
+            "meaning": "Good evening",
+            "example": "Bonsoir ! Comment s'est passée ta journée ?"
+        },
+        {
+            "word": "Bonne nuit",
+            "meaning": "Good night",
+            "example": "Bonne nuit ! Dors bien."
+        },
+        {
+            "word": "Salut",
+            "meaning": "Goodbye",
+            "example": "Salut ! À demain."
+        },
+        {
+            "word": "Au revoir",
+            "meaning": "Goodbye",
+            "example": "Au revoir ! À bientôt."
+        }
+    ]
+}

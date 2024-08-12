@@ -1,0 +1,35 @@
+{
+    "chapter": 3,
+    "type": 3,
+    "title": "4: Fill-in-the-Blank: Choosing the Correct Adjective",
+    "content": [
+        {
+            "sentence": "Ma grand-mère est __. (old)",
+            "options": [
+                {"choices": ["vieille", "jeune", "jolie"]}
+            ],
+            "answers": ["vieille"]
+        },
+        {
+            "sentence": "Il est très __. (intelligent)",
+            "options": [
+                {"choices": ["intelligent", "drôle", "sérieux"]}
+            ],
+            "answers": ["intelligent"]
+        },
+        {
+            "sentence": "La fille est __. (friendly)",
+            "options": [
+                {"choices": ["amicale", "désagréable", "moche"]}
+            ],
+            "answers": ["amicale"]
+        },
+        {
+            "sentence": "Le garçon est __. (funny)",
+            "options": [
+                {"choices": ["drôle", "sérieux", "gros"]}
+            ],
+            "answers": ["drôle"]
+        }
+    ]
+}

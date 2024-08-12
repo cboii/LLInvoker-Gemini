@@ -1,0 +1,11 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Describing Family and Friends",
+    "content": [
+        {"sentence": "Mein __ ist der Bruder meiner Mutter. (Uncle)", "answers": ["Onkel"]},
+        {"sentence": "Meine __ ist sehr freundlich. (Friend, female)", "answers": ["Freundin"]},
+        {"sentence": "Meine Eltern sind seit 20 Jahren __. (Married)", "answers": ["verheiratet"]},
+        {"sentence": "Mein __ ist sehr lustig. (Friend, male)", "answers": ["Freund"]}
+    ]
+}

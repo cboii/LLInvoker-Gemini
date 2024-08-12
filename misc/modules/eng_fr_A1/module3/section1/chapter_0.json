@@ -1,0 +1,21 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Family Members",
+    "vocabulary": [
+        {"word": "Père", "meaning": "Father"},
+        {"word": "Mère", "meaning": "Mother"},
+        {"word": "Frère", "meaning": "Brother"},
+        {"word": "Sœur", "meaning": "Sister"},
+        {"word": "Grand-père", "meaning": "Grandfather"},
+        {"word": "Grand-mère", "meaning": "Grandmother"},
+        {"word": "Oncle", "meaning": "Uncle"},
+        {"word": "Tante", "meaning": "Aunt"},
+        {"word": "Cousin", "meaning": "Cousin (male)"},
+        {"word": "Cousine", "meaning": "Cousin (female)"},
+        {"word": "Fils", "meaning": "Son"},
+        {"word": "Fille", "meaning": "Daughter"},
+        {"word": "Mari", "meaning": "Husband"},
+        {"word": "Femme", "meaning": "Wife"}
+    ]
+}

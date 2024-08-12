@@ -1,0 +1,72 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Salutations",
+    "vocabulary": [
+        {
+            "word": "der Morgen",
+            "meaning": "le matin",
+            "example": "Guten Morgen, Frau Müller."
+        },
+        {
+            "word": "der Tag",
+            "meaning": "le jour",
+            "example": "Guten Tag, Herr Schmidt."
+        },
+        {
+            "word": "der Abend",
+            "meaning": "le soir",
+            "example": "Guten Abend, Frau Schneider."
+        },
+        {
+            "word": "die Nacht",
+            "meaning": "la nuit",
+            "example": "Gute Nacht, Lisa."
+        },
+        {
+            "word": "der Nachmittag",
+            "meaning": "l'après-midi",
+            "example": "Guten Nachmittag, Peter."
+        },
+        {
+            "word": "hallo",
+            "meaning": "bonjour (informel)",
+            "example": "Hallo, Peter."
+        },
+        {
+            "word": "tschüss",
+            "meaning": "au revoir (informel)",
+            "example": "Tschüss, Lisa."
+        },
+        {
+            "word": "auf Wiedersehen",
+            "meaning": "au revoir (formel)",
+            "example": "Auf Wiedersehen, Herr Meier."
+        },
+        {
+            "word": "Wie geht es Ihnen?",
+            "meaning": "Comment allez-vous? (formel)",
+            "example": "Wie geht es Ihnen, Frau Schmidt?"
+        },
+        {
+            "word": "Mir geht es gut.",
+            "meaning": "Je vais bien.",
+            "example": "Mir geht es gut, danke."
+        },
+        {
+            "word": "danke",
+            "meaning": "merci",
+            "example": "Danke, Frau Müller."
+        },
+        {
+            "word": "bitte",
+            "meaning": "s'il vous plaît / de rien",
+            "example": "Bitte, Herr Schmidt."
+        },
+        {
+            "word": "die Entschuldigung",
+            "meaning": "l'excuse",
+            "example": "Entschuldigung, Frau Schneider."
+        }
+    ]
+}

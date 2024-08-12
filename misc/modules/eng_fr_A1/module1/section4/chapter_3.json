@@ -1,0 +1,16 @@
+{
+    "chapter": 3,
+    "type": 8,
+    "title": "4: The Verb 'habiter' (to live)",
+    "verb": "habiter",
+    "tenses": {
+        "Present": {
+            "je": "habite",
+            "tu": "habites",
+            "il/elle/on": "habite",
+            "nous": "habitons",
+            "vous": "habitez",
+            "ils/elles": "habitent"
+        }
+    }
+}

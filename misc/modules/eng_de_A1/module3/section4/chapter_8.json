@@ -1,0 +1,11 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Describing People",
+    "content": [
+        {"sentence": "Mein Opa ist sehr __. (old)", "answers": ["alt"]},
+        {"sentence": "Meine Schwester ist sehr __. (pretty)", "answers": ["hübsch"]},
+        {"sentence": "Der Lehrer ist sehr __. (intelligent)", "answers": ["intelligent"]},
+        {"sentence": "Die Frau ist __. (beautiful)", "answers": ["schön"]}
+    ]
+}

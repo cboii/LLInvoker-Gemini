@@ -1,0 +1,27 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Remplir les blancs : Pronoms et verbes",
+    "content": [
+        {
+            "sentence": "Er ___ (être) glücklich.",
+            "answers": ["ist"]
+        },
+        {
+            "sentence": "Sie ___ (venir) aus Spanien.",
+            "answers": ["kommt"]
+        },
+        {
+            "sentence": "Wir ___ (habiter) in München.",
+            "answers": ["wohnen"]
+        },
+        {
+            "sentence": "Du ___ (être) ein Student.",
+            "answers": ["bist"]
+        },
+        {
+            "sentence": "Sie ___ (être) Lehrerin.",
+            "answers": ["ist"]
+        }
+    ]
+}

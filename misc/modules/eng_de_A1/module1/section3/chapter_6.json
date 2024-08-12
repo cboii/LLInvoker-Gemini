@@ -1,0 +1,34 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: Combining Introductions",
+    "content": [
+        {
+            "sentence": "Ich ___ Max. (My name is)",
+            "options": [
+                {
+                    "choices": ["gehe", "heiße", "bin"]
+                }
+            ],
+            "answers": ["heiße"]
+        },
+        {
+            "sentence": "___ heißt du? (What is your name?)",
+            "options": [
+                {
+                    "choices": ["Wo", "Was", "Wie"]
+                }
+            ],
+            "answers": ["Wie"]
+        },
+        {
+            "sentence": "Ich ___ aus den USA. (I come from)",
+            "options": [
+                {
+                    "choices": ["komme", "gehe", "bin"]
+                }
+            ],
+            "answers": ["komme"]
+        }
+    ]
+}

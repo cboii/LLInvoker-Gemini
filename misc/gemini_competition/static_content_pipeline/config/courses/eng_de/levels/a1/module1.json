@@ -1,0 +1,70 @@
+{
+    "Module 1": {
+      "Sections": [
+        {
+          "title": "Section 1: Basic Greetings",
+          "vocabulary": {
+            "Hallo": "Hello",
+            "Guten Morgen": "Good morning",
+            "Guten Tag": "Good day",
+            "Guten Abend": "Good evening",
+            "Gute Nacht": "Good night",
+            "Tschüss": "Goodbye",
+            "Auf Wiedersehen": "Goodbye"
+          }
+        },
+        {
+          "title": "Section 2: Polite Phrases",
+          "vocabulary": {
+            "Bitte": "Please",
+            "Danke": "Thank you",
+            "Entschuldigung": "Excuse me/Sorry",
+            "Ja": "Yes",
+            "Nein": "No",
+            "Gern geschehen": "You’re welcome",
+            "Kein Problem": "No problem",
+            "Viel Spaß": "Have fun",
+            "Alles Gute": "All the best"
+          }
+        },
+        {
+          "title": "Section 3: Introducing Yourself",
+          "vocabulary": {
+            "Ich heiße...": "My name is...",
+            "Wie heißt du?": "What is your name?",
+            "Mein Name ist...": "My name is...",
+            "Wer bist du?": "Who are you?",
+            "Ich bin...": "I am...",
+            "Freut mich, dich kennenzulernen": "Nice to meet you"
+          }
+        },
+        {
+          "title": "Section 4: Asking and Answering Questions about Yourself",
+          "vocabulary": {
+            "Wie geht es dir?": "How are you?",
+            "Mir geht es gut.": "I am fine.",
+            "Und dir?": "And you?",
+            "Woher kommst du?": "Where are you from?",
+            "Ich komme aus...": "I come from...",
+            "Wo wohnst du?": "Where do you live?",
+            "Ich wohne in...": "I live in..."
+          }
+        },
+        {
+          "title": "Section 5: Review and Reinforcement 1",
+          "vocabulary": {
+            "Review and practice of vocabulary from Sections 1-4 through various exercises": "",
+            "No new vocabulary introduced": ""
+          }
+        },
+        {
+          "title": "Section 6: Review and Reinforcement 2",
+          "vocabulary": {
+            "Further review and practice of vocabulary from Sections 1-4 through more complex exercises": "",
+            "No new vocabulary introduced": ""
+          }
+        }
+      ]
+    }
+  }
+  

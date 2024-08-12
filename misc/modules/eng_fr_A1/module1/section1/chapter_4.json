@@ -1,0 +1,27 @@
+{
+    "chapter": 4,
+    "type": 1,
+    "title": "5: Fill-in-the-Blank: Polite Phrases",
+    "content": [
+        {
+            "sentence": "___ ! (Please)",
+            "answers": ["S'il vous plaît"]
+        },
+        {
+            "sentence": "___ pour votre aide ! (Thank you)",
+            "answers": ["Merci"]
+        },
+        {
+            "sentence": "___, où sont les toilettes ? (Excuse me)",
+            "answers": ["Excusez-moi"]
+        },
+        {
+            "sentence": "___, c'est correct. (Yes)",
+            "answers": ["Oui"]
+        },
+        {
+            "sentence": "___, ce n'est pas possible. (No)",
+            "answers": ["Non"]
+        }
+    ]
+}

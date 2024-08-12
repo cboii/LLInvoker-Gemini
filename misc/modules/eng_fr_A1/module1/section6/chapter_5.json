@@ -1,0 +1,27 @@
+{
+    "chapter": 5,
+    "type": 1,
+    "title": "6: Fill-in-the-Blank: Review Sentences",
+    "content": [
+        {
+            "sentence": "___ habite à Berlin. (I)",
+            "answers": ["Je"]
+        },
+        {
+            "sentence": "Comment ___ ? (how are you)",
+            "answers": ["ça va"]
+        },
+        {
+            "sentence": "Je ___ 25 ans. (am)",
+            "answers": ["suis"]
+        },
+        {
+            "sentence": "___ t'appelles-tu ? (What)",
+            "answers": ["Comment"]
+        },
+        {
+            "sentence": "Je ___ enseignant. (am)",
+            "answers": ["suis"]
+        }
+    ]
+}

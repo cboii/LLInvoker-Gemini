@@ -1,0 +1,32 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Asking and Answering Questions",
+    "vocabulary": [
+        {
+            "word": "Woher kommst du?",
+            "meaning": "Where are you from?",
+            "example": "Woher kommst du? - Ich komme aus Deutschland."
+        },
+        {
+            "word": "Wie alt bist du?",
+            "meaning": "How old are you?",
+            "example": "Wie alt bist du? - Ich bin 25 Jahre alt."
+        },
+        {
+            "word": "Was machst du?",
+            "meaning": "What do you do?",
+            "example": "Was machst du? - Ich bin Student."
+        },
+        {
+            "word": "Wo wohnst du?",
+            "meaning": "Where do you live?",
+            "example": "Wo wohnst du? - Ich wohne in Berlin."
+        },
+        {
+            "word": "Was ist dein Beruf?",
+            "meaning": "What is your profession?",
+            "example": "Was ist dein Beruf? - Ich bin Lehrer."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "chapter": 7,
+    "type": 3,
+    "title": "8: Fill-in-the-Blank: Answering Personal Questions",
+    "content": [
+        {
+            "sentence": "Ich ___ aus Deutschland. (come)",
+            "options": [
+                {
+                    "choices": ["gehe", "komme", "wohne"]
+                }
+            ],
+            "answers": ["komme"]
+        },
+        {
+            "sentence": "Ich ___ in Berlin. (live)",
+            "options": [
+                {
+                    "choices": ["sitze", "komme", "wohne"]
+                }
+            ],
+            "answers": ["wohne"]
+        },
+        {
+            "sentence": "Ich bin 25 Jahre ___. (old)",
+            "options": [
+                {
+                    "choices": ["alt", "jung"]
+                }
+            ],
+            "answers": ["alt"]
+        }
+    ]
+}

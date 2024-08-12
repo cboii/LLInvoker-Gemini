@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Numbers Review",
+    "content": [
+        {
+            "sentence": "Combien d'années a-t-il ? Il a ___. (14)",
+            "options": [
+                {"choices": ["quatorze", "seize", "dix-huit"]}
+            ],
+            "answers": ["quatorze"]
+        },
+        {
+            "sentence": "Combien de pommes as-tu ? J'ai ___. (2)",
+            "options": [
+                {"choices": ["deux", "dix", "quatre"]}
+            ],
+            "answers": ["deux"]
+        },
+        {
+            "sentence": "Quel âge as-tu ? J'ai ___. (19)",
+            "options": [
+                {"choices": ["dix-neuf", "vingt", "quinze"]}
+            ],
+            "answers": ["dix-neuf"]
+        },
+        {
+            "sentence": "Combien de personnes sont là ? Il y a ___. (11)",
+            "options": [
+                {"choices": ["onze", "douze", "neuf"]}
+            ],
+            "answers": ["onze"]
+        }
+    ]
+}

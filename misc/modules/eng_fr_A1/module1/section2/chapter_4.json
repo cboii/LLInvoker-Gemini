@@ -1,0 +1,23 @@
+{
+    "chapter": 4,
+    "type": 1,
+    "title": "5: Fill-in-the-Blank: More Polite Phrases",
+    "content": [
+        {
+            "sentence": "___, où est la gare ? (Excuse me, formal)",
+            "answers": ["Excusez-moi"]
+        },
+        {
+            "sentence": "___ pour votre aide ! (Thank you very much)",
+            "answers": ["Merci beaucoup"]
+        },
+        {
+            "sentence": "Je suis ___, c'était mon erreur. (I’m sorry)",
+            "answers": ["désolé"]
+        },
+        {
+            "sentence": "Pourriez-vous ___ fermer la fenêtre ? (Could you please)",
+            "answers": ["s'il vous plaît"]
+        }
+    ]
+}

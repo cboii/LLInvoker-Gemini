@@ -1,0 +1,11 @@
+{
+    "chapter": 7,
+    "type": 1,
+    "title": "8: Fill-in-the-Blank: Simple Math with Numbers 50-100",
+    "content": [
+        {"sentence": "Cinquante plus dix est ___. (60)", "answers": ["soixante"]},
+        {"sentence": "Quatre-vingt-dix moins vingt est ___. (70)", "answers": ["soixante-dix"]},
+        {"sentence": "Quatre-vingts moins trente est ___. (50)", "answers": ["cinquante"]},
+        {"sentence": "Cent moins dix est ___. (90)", "answers": ["quatre-vingt-dix"]}
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Revue Complète",
+    "content": [
+        {
+            "sentence": "___ ! Comment ça va ? (Hello)",
+            "options": [
+                {
+                    "choices": ["Bonjour", "Salut"]
+                }
+            ],
+            "answers": ["Salut"]
+        },
+        {
+            "sentence": "Je ___ des États-Unis. (come)",
+            "options": [
+                {
+                    "choices": ["viens", "suis"]
+                }
+            ],
+            "answers": ["viens"]
+        },
+        {
+            "sentence": "___ tu ? (What)",
+            "options": [
+                {
+                    "choices": ["Comment", "Quel"]
+                }
+            ],
+            "answers": ["Comment"]
+        },
+        {
+            "sentence": "Je ___ 25 ans. (am)",
+            "options": [
+                {
+                    "choices": ["suis", "ai"]
+                }
+            ],
+            "answers": ["suis"]
+        },
+        {
+            "sentence": "___ vis à Munich. (I)",
+            "options": [
+                {
+                    "choices": ["Je", "Tu"]
+                }
+            ],
+            "answers": ["Je"]
+        }
+    ]
+}

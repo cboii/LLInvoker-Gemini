@@ -1,0 +1,11 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Describing People",
+    "content": [
+        {"sentence": "Mon grand-père est très __. (old)", "answers": [" vieux"]},
+        {"sentence": "Ma sœur est très __. (pretty)", "answers": ["jolie"]},
+        {"sentence": "Le professeur est très __. (intelligent)", "answers": ["intelligent"]},
+        {"sentence": "La femme est __. (beautiful)", "answers": ["belle"]}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "chapter": 3,
+    "type": 3,
+    "title": "4: Fill-in-the-Blank: Choosing the Correct Family Member",
+    "content": [
+        {
+            "sentence": "Mon __ est le père de ma mère. (Grandfather)",
+            "options": [
+                {"choices": ["Grand-père", "Père", "Oncle"]}
+            ],
+            "answers": ["Grand-père"]
+        },
+        {
+            "sentence": "Ma __ est la sœur de mon père. (Aunt)",
+            "options": [
+                {"choices": ["Tante", "Mère", "Cousine"]}
+            ],
+            "answers": ["Tante"]
+        },
+        {
+            "sentence": "Mon __ est le frère de mon père. (Uncle)",
+            "options": [
+                {"choices": ["Oncle", "Frère", "Cousin"]}
+            ],
+            "answers": ["Oncle"]
+        },
+        {
+            "sentence": "Ma __ est la fille de ma tante. (Cousin, female)",
+            "options": [
+                {"choices": ["Cousine", "Sœur", "Fille"]}
+            ],
+            "answers": ["Cousine"]
+        }
+    ]
+}

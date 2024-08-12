@@ -1,0 +1,16 @@
+{
+    "chapter": 6,
+    "type": 8,
+    "title": "7: The Verb 'manger' (to eat)",
+    "verb": "manger",
+    "tenses": {
+        "Present": {
+            "je": "mange",
+            "tu": "manges",
+            "il/elle/on": "mange",
+            "nous": "mangeons",
+            "vous": "mangez",
+            "ils/elles": "mangent"
+        }
+    }
+}

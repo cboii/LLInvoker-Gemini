@@ -1,0 +1,25 @@
+{
+    "chapter": 7,
+    "type": 3,
+    "title": "8: Fill-in-the-Blank: Answering Personal Questions",
+    "content": [
+        {
+            "sentence": "Je ___ d'Allemagne. (come)",
+            "options": [
+                {
+                    "choices": ["vais", "viens", "habite"]
+                }
+            ],
+            "answers": ["viens"]
+        },
+        {
+            "sentence": "Je ___ à Berlin. (live)",
+            "options": [
+                {
+                    "choices": ["suis assis", "viens", "habite"]
+                }
+            ],
+            "answers": ["habite"]
+        }
+    ]
+}

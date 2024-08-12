@@ -1,0 +1,17 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Talking About Friends",
+    "vocabulary": [
+        {"word": "Mon ami", "meaning": "My friend (male)"},
+        {"word": "Mon amie", "meaning": "My friend (female)"},
+        {"word": "Nous sommes amis", "meaning": "We are friends"},
+        {"word": "Il est mon meilleur ami", "meaning": "He is my best friend"},
+        {"word": "Elle est ma meilleure amie", "meaning": "She is my best friend"},
+        {"word": "Nous nous connaissons depuis...", "meaning": "We have known each other since..."},
+        {"word": "Nous nous sommes rencontrés en...", "meaning": "We met in..."},
+        {"word": "Il/Elle est très gentil(le)", "meaning": "He/She is very nice"},
+        {"word": "Nous passons beaucoup de temps ensemble", "meaning": "We spend a lot of time together"},
+        {"word": "Je lui fais confiance", "meaning": "I trust him/her"}
+    ]
+}

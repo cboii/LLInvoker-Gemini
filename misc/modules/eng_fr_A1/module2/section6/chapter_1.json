@@ -1,0 +1,11 @@
+{
+    "chapter": 1,
+    "type": 1,
+    "title": "2: Fill-in-the-Blank: Describing Objects by Color",
+    "content": [
+        {"sentence": "La pomme est ___. (red)", "answers": ["rouge"]},
+        {"sentence": "La voiture est ___. (black)", "answers": ["noir"]},
+        {"sentence": "La fleur est ___. (yellow)", "answers": ["jaune"]},
+        {"sentence": "Le livre est ___. (blue)", "answers": ["bleu"]}
+    ]
+}

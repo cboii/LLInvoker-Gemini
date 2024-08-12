@@ -1,0 +1,324 @@
+{
+        "section": "section1",
+        "title": "Module 1: Salutations et Présentations",
+        "chapters": [
+            {
+                "type": 0,
+                "title": "Basic Sentence Structure - Subject-Verb-Object",
+                "content": "German main clauses typically follow a **Subject-Verb-Object (SVO)** structure, similar to English. The **subject** performs the action, the **verb** describes the action, and the **object** receives the action.\n\n**Examples:**\n1. **Ich** [Subject] **esse** [Verb] **einen Apfel** [Object].\n   (I eat an apple.)\n\n2. **Der Hund** [Subject] **jagt** [Verb] **die Katze** [Object].\n   (The dog chases the cat.)\n\n3. **Maria** [Subject] **liest** [Verb] **ein Buch** [Object].\n   (Maria reads a book.)\n\n4. **Wir** [Subject] **trinken** [Verb] **Kaffee** [Object].\n   (We drink coffee.)\n\n5. **Die Kinder** [Subject] **spielen** [Verb] **Fußball** [Object].\n   (The children play soccer.)\n\n**Note:** While this SVO structure is common, German word order can be more flexible than English, especially when emphasizing different parts of the sentence or in subordinate clauses. However, in simple statements, SVO is the standard order."
+            },
+            {
+                "type": 1,
+                "title": "Exercice à trous: Présentations",
+                "content": [
+                    {
+                        "sentence": "___ (I) m'appelle Pierre. ___ (I) suis étudiant.",
+                        "answers": [
+                            "Je",
+                            "Je"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (You) ___ (to be) professeur?",
+                        "answers": [
+                            "Êtes-vous"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (He) ___ (to come) de Paris.",
+                        "answers": [
+                            "Il",
+                            "vient"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (We) ___ (to be) amies.",
+                        "answers": [
+                            "Nous",
+                            "sommes"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (They) ___ (to be) de Belgique.",
+                        "answers": [
+                            "Ils",
+                            "sont"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": 2,
+                "title": "Conjugaison: Verbe 'être'",
+                "content": [
+                    "je",
+                    "tu",
+                    "il/elle/on",
+                    "nous",
+                    "vous",
+                    "ils/elles"
+                ],
+                "answers": [
+                    "suis",
+                    "es",
+                    "est",
+                    "sommes",
+                    "êtes",
+                    "sont"
+                ]
+            },
+            {
+                "type": 3,
+                "title": "Exercice à trous: Salutations",
+                "content": [
+                    {
+                        "sentence": "___ (Hello), je m'appelle Marie.",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Bonjour",
+                                    "Bonsoir",
+                                    "Au revoir",
+                                    "Salut"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Bonjour"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (Good evening), ___ (how are you)?",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Bonjour",
+                                    "Bonsoir",
+                                    "Au revoir",
+                                    "Salut"
+                                ]
+                            },
+                            {
+                                "choices": [
+                                    "comment allez-vous",
+                                    "ça va",
+                                    "enchanté",
+                                    "merci"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Bonsoir",
+                            "comment allez-vous"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (Goodbye), à ___ (tomorrow)!",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Au revoir",
+                                    "Bonjour",
+                                    "Salut",
+                                    "Bonsoir"
+                                ]
+                            },
+                            {
+                                "choices": [
+                                    "demain",
+                                    "hier",
+                                    "aujourd'hui",
+                                    "bientôt"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Au revoir",
+                            "demain"
+                        ]
+                    },
+                    {
+                        "sentence": "___ (Welcome) en France! Comment vous ___ (to call oneself)?",
+                        "options": [
+                            {
+                                "choices": [
+                                    "Bienvenue",
+                                    "Enchanté",
+                                    "S'il vous plaît",
+                                    "De rien"
+                                ]
+                            },
+                            {
+                                "choices": [
+                                    "appelez-vous",
+                                    "allez-vous",
+                                    "êtes-vous",
+                                    "dites-vous"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "Bienvenue",
+                            "appelez-vous"
+                        ]
+                    },
+                    {
+                        "sentence": "Merci beaucoup! ___ (You're welcome).",
+                        "options": [
+                            {
+                                "choices": [
+                                    "De rien",
+                                    "S'il vous plaît",
+                                    "À bientôt",
+                                    "Bonne nuit"
+                                ]
+                            }
+                        ],
+                        "answers": [
+                            "De rien"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": 4,
+                "title": "Exercice de vocabulaire: Salutations et présentations",
+                "answers": [
+                    "Hello",
+                    "Good morning",
+                    "My name is",
+                    "How are you?",
+                    "Good, thank you!",
+                    "Goodbye"
+                ],
+                "words": [
+                    "Bonjour",
+                    "Bonjour",
+                    "Je m'appelle",
+                    "Comment allez-vous?",
+                    "Bien, merci!",
+                    "Au revoir"
+                ]
+            },
+            {
+                "type": 5,
+                "title": "Exercice de lecture: Salutations et présentations",
+                "content": "Bonjour, je m'appelle Anne. J'ai vingt ans et je viens de France. J'habite à Paris. J'ai un chien et un chat. Mon chien s'appelle Bruno et mon chat s'appelle Luna. J'étudie à l'université et j'apprends le français. Pendant mon temps libre, j'aime lire des livres et jouer de la guitare. Le week-end, je rencontre souvent mes amis au parc. Nous jouons au football et nous nous amusons beaucoup."
+            },
+            {
+                "type": 6,
+                "title": "Questions-réponses: Dialogue",
+                "content": "Bonjour, je m'appelle Anne. J'ai vingt ans et je viens de France. J'habite à Paris. J'ai un chien et un chat. Mon chien s'appelle Bruno et mon chat s'appelle Luna. J'étudie à l'université et j'apprends le français. Pendant mon temps libre, j'aime lire des livres et jouer de la guitare. Le week-end, je rencontre souvent mes amis au parc. Nous jouons au football et nous nous amusons beaucoup.",
+                "questions": [
+                    "Comment s'appelle le chien?",
+                    "Où habite Anne?",
+                    "Que fait Anne pendant son temps libre?"
+                ],
+                "references": [
+                    "Le chien s'appelle Bruno.",
+                    "Anne habite à Paris.",
+                    "Anne lit des livres et joue de la guitare pendant son temps libre."
+                ]
+            },
+            {
+                "type": 7,
+                "title": "Greetings",
+                "vocabulary": [
+                    {
+                        "word": "der Morgen",
+                        "meaning": "the morning",
+                        "example": "Guten Morgen, Frau Müller."
+                    },
+                    {
+                        "word": "der Tag",
+                        "meaning": "the day",
+                        "example": "Guten Tag, Herr Schmidt."
+                    },
+                    {
+                        "word": "der Abend",
+                        "meaning": "the evening",
+                        "example": "Guten Abend, Frau Schneider."
+                    },
+                    {
+                        "word": "die Nacht",
+                        "meaning": "the night",
+                        "example": "Gute Nacht, Lisa."
+                    },
+                    {
+                        "word": "der Nachmittag",
+                        "meaning": "the afternoon",
+                        "example": "Guten Nachmittag, Peter."
+                    },
+                    {
+                        "word": "hallo",
+                        "meaning": "hello (informal)",
+                        "example": "Hallo, Peter."
+                    },
+                    {
+                        "word": "tsch\u00fcss",
+                        "meaning": "bye (informal)",
+                        "example": "Tsch\u00fcss, Lisa."
+                    },
+                    {
+                        "word": "auf Wiedersehen",
+                        "meaning": "goodbye (formal)",
+                        "example": "Auf Wiedersehen, Herr Meier."
+                    },
+                    {
+                        "word": "Wie geht es Ihnen?",
+                        "meaning": "How are you? (formal)",
+                        "example": "Wie geht es Ihnen, Frau Schmidt?"
+                    },
+                    {
+                        "word": "Mir geht es gut.",
+                        "meaning": "I am fine.",
+                        "example": "Mir geht es gut, danke."
+                    },
+                    {
+                        "word": "danke",
+                        "meaning": "thank you",
+                        "example": "Danke, Frau Müller."
+                    },
+                    {
+                        "word": "bitte",
+                        "meaning": "please/you're welcome",
+                        "example": "Bitte, Herr Schmidt."
+                    },
+                    {
+                        "word": "die Entschuldigung",
+                        "meaning": "the apology",
+                        "example": "Entschuldigung, Frau Schneider."
+                    }
+                ]
+            },
+            {
+                "type": 8,
+                "title": "The verb \"sein\" (to be)",
+                "verb": "sein",
+                "tenses": {
+                    "present": {
+                        "ich": "bin",
+                        "du": "bist",
+                        "er/sie/es": "ist",
+                        "wir": "sind",
+                        "ihr": "seid",
+                        "sie/Sie": "sind"
+                    },
+                    "past": {
+                        "ich": "war",
+                        "du": "warst",
+                        "er/sie/es": "war",
+                        "wir": "waren",
+                        "ihr": "wart",
+                        "sie/Sie": "waren"
+                    }
+                }
+                
+            },
+            {
+                "type": 9,
+                "title": "Writing: Introductions",
+                "topic": "Introduce yourself to a new friend. Write a short paragraph about yourself. Include your name, age, where you are from, and where you live."
+            }
+        ]
+}

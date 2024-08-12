@@ -1,0 +1,11 @@
+{
+    "chapter": 8,
+    "type": 1,
+    "title": "9: Fill-in-the-Blank: Comprehensive Review",
+    "content": [
+        {"sentence": "Mon __ est très vieux. (Grandfather)", "answers": ["Papi"]},
+        {"sentence": "Ma __ est ma meilleure amie. (Friend, female)", "answers": ["Amie"]},
+        {"sentence": "Il est très __. (intelligent)", "answers": ["intelligent"]},
+        {"sentence": "Mes parents sont __. (married)", "answers": ["mariés"]}
+    ]
+}

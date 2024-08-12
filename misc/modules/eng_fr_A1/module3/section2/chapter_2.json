@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Identifying Relationships",
+    "content": [
+        {"sentence": "Ma ___ est ma meilleure amie. (Friend, female)", "answers": ["amie"]},
+        {"sentence": "Mon ___ travaille avec moi. (Colleague, male)", "answers": ["collègue"]},
+        {"sentence": "Ma ___ habite à côté de moi. (Neighbor, female)", "answers": ["voisine"]},
+        {"sentence": "Il est ___ et n'a pas de femme. (Single)", "answers": ["célibataire"]}
+    ]
+}

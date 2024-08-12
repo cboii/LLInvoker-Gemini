@@ -1,0 +1,11 @@
+{
+    "chapter": 2,
+    "type": 1,
+    "title": "3: Fill-in-the-Blank: Identifying Family Members",
+    "content": [
+        {"sentence": "Mein Vater ist ein ___. (Father)", "answers": ["Vater"]},
+        {"sentence": "Meine Mutter ist eine ___. (Mother)", "answers": ["Mutter"]},
+        {"sentence": "Mein Bruder ist ein ___. (Brother)", "answers": ["Bruder"]},
+        {"sentence": "Meine Schwester ist eine ___. (Sister)", "answers": ["Schwester"]}
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "chapter": 3,
+    "type": 1,
+    "title": "4: Fill-in-the-Blank: Polite Phrases in Context",
+    "content": [
+        {
+            "sentence": "___! Pouvez vous m'aider? (Please)",
+            "answers": ["S'il vous plaît"]
+        },
+        {
+            "sentence": "Merci pour ton aide! - ___. (You're welcome)",
+            "answers": ["De rien"]
+        },
+        {
+            "sentence": "___, où sont les toilettes? (Excuse me)",
+            "answers": ["Excusez-moi"]
+        },
+        {
+            "sentence": "___, c'est correct. (Yes)",
+            "answers": ["Oui"]
+        }
+    ]
+}

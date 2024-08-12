@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing the Correct Ordinal Number",
+    "content": [
+        {
+            "sentence": "Er kam als ___. (third)",
+            "options": [
+                {"choices": ["Dritte", "Vierte", "Fünfte"]}
+            ],
+            "answers": ["Dritte"]
+        },
+        {
+            "sentence": "Sie ist die ___. (first)",
+            "options": [
+                {"choices": ["Erste", "Zweite", "Dritte"]}
+            ],
+            "answers": ["Erste"]
+        },
+        {
+            "sentence": "Das ist das ___. (ninth)",
+            "options": [
+                {"choices": ["Neunte", "Zehnte", "Siebte"]}
+            ],
+            "answers": ["Neunte"]
+        },
+        {
+            "sentence": "Er kam als ___. (seventh)",
+            "options": [
+                {"choices": ["Siebte", "Achte", "Sechste"]}
+            ],
+            "answers": ["Siebte"]
+        }
+    ]
+}

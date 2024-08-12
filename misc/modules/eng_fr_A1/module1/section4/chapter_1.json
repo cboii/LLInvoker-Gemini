@@ -1,0 +1,16 @@
+{
+    "chapter": 1,
+    "type": 8,
+    "title": "2: The Verb 'venir' (to come)",
+    "verb": "venir",
+    "tenses": {
+        "Present": {
+            "je": "viens",
+            "tu": "viens",
+            "il/elle/on": "vient",
+            "nous": "venons",
+            "vous": "venez",
+            "ils/elles": "viennent"
+        }
+    }
+}

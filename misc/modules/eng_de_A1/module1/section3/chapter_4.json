@@ -1,0 +1,32 @@
+{
+    "chapter": 4,
+    "type": 7,
+    "title": "5: Vocabulary: Extending Introductions",
+    "vocabulary": [
+        {
+            "word": "Wie geht es dir?",
+            "meaning": "How are you?",
+            "example": "Wie geht es dir? - Mir geht es gut."
+        },
+        {
+            "word": "Mir geht es gut.",
+            "meaning": "I am fine.",
+            "example": "Danke, mir geht es gut."
+        },
+        {
+            "word": "Und dir?",
+            "meaning": "And you?",
+            "example": "Mir geht es gut, und dir?"
+        },
+        {
+            "word": "Ich wohne in...",
+            "meaning": "I live in...",
+            "example": "Ich wohne in Berlin."
+        },
+        {
+            "word": "Wo wohnst du?",
+            "meaning": "Where do you live?",
+            "example": "Wo wohnst du? - Ich wohne in München."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "chapter": 6,
+    "type": 3,
+    "title": "7: Fill-in-the-Blank: More Friendship Phrases",
+    "content": [
+        {
+            "sentence": "Mon meilleur ami est __. (very nice)",
+            "options": [
+                {"choices": ["très gentil", "très calme", "très bruyant"]}
+            ],
+            "answers": ["très gentil"]
+        },
+        {
+            "sentence": "Nous __ depuis l'époque de l'école. (have known)",
+            "options": [
+                {"choices": ["connaissons", "faire connaissance", "séparer"]}
+            ],
+            "answers": ["connaissons"]
+        },
+        {
+            "sentence": "Il/Elle est __. (my best friend)",
+            "options": [
+                {"choices": ["mon meilleur ami", "mon ami", "mon collègue"]}
+            ],
+            "answers": ["mon meilleur ami"]
+        },
+        {
+            "sentence": "Nous __ à l'université. (met)",
+            "options": [
+                {"choices": ["nous avons rencontré", "a rencontré", "avons-nous"]}
+            ],
+            "answers": ["nous avons rencontré"]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "chapter": 5,
+    "type": 3,
+    "title": "6: Fill-in-the-Blank: Choosing the Right Shape",
+    "content": [
+        {
+            "sentence": "Une roue est un ___. (circle)",
+            "options": [
+                {"choices": ["cercle", "carré", "triangle"]}
+            ],
+            "answers": ["cercle"]
+        },
+        {
+            "sentence": "Un dé est un ___. (square)",
+            "options": [
+                {"choices": ["carré", "rectangle", "ovale"]}
+            ],
+            "answers": ["carré"]
+        },
+        {
+            "sentence": "Un œuf est un ___. (oval)",
+            "options": [
+                {"choices": ["ovale", "losange", "cœur"]}
+            ],
+            "answers": ["ovale"]
+        },
+        {
+            "sentence": "Un sapin de Noël a une ___. (star)",
+            "options": [
+                {"choices": ["étoile", "triangle", "rectangle"]}
+            ],
+            "answers": ["étoile"]
+        }
+    ]
+}

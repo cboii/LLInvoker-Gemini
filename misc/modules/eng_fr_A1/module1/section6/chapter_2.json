@@ -1,0 +1,16 @@
+{
+    "chapter": 2,
+    "type": 8,
+    "title": "3: The Verb 'aller' (to go)",
+    "verb": "aller",
+    "tenses": {
+        "Present": {
+            "je": "vais",
+            "tu": "vas",
+            "il/elle/on": "va",
+            "nous": "allons",
+            "vous": "allez",
+            "ils/elles": "vont"
+        }
+    }
+}

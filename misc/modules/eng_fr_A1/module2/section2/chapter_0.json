@@ -1,0 +1,24 @@
+{
+    "chapter": 0,
+    "type": 7,
+    "title": "1: Vocabulary: Numbers 21-100",
+    "vocabulary": [
+        {"word": "Vingt-et-un", "meaning": "Twenty-one"},
+        {"word": "Vingt-deux", "meaning": "Twenty-two"},
+        {"word": "Vingt-trois", "meaning": "Twenty-three"},
+        {"word": "Vingt-quatre", "meaning": "Twenty-four"},
+        {"word": "Vingt-cinq", "meaning": "Twenty-five"},
+        {"word": "Vingt-six", "meaning": "Twenty-six"},
+        {"word": "Vingt-sept", "meaning": "Twenty-seven"},
+        {"word": "Vingt-huit", "meaning": "Twenty-eight"},
+        {"word": "Vingt-neuf", "meaning": "Twenty-nine"},
+        {"word": "Trente", "meaning": "Thirty"},
+        {"word": "Quarante", "meaning": "Forty"},
+        {"word": "Cinquante", "meaning": "Fifty"},
+        {"word": "Soixante", "meaning": "Sixty"},
+        {"word": "Soixante-dix", "meaning": "Seventy"},
+        {"word": "Quatre-vingts", "meaning": "Eighty"},
+        {"word": "Quatre-vingt-dix", "meaning": "Ninety"},
+        {"word": "Cent", "meaning": "One hundred"}
+    ]
+}

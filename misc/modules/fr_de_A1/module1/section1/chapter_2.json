@@ -1,0 +1,24 @@
+{
+    "chapter": 2,
+    "type": 8,
+    "title": "3: Le verbe \"sein\" (être)",
+    "verb": "sein",
+    "tenses": {
+        "Présent": {
+            "ich": "bin",
+            "du": "bist",
+            "er/sie/es": "ist",
+            "wir": "sind",
+            "ihr": "seid",
+            "sie": "sind"
+        },
+        "Imparfait": {
+            "ich": "war",
+            "du": "warst",
+            "er/sie/es": "war",
+            "wir": "waren",
+            "ihr": "wart",
+            "sie": "waren"
+        }
+    }
+}

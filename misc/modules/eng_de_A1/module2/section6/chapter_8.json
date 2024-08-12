@@ -1,0 +1,35 @@
+{
+    "chapter": 8,
+    "type": 3,
+    "title": "9: Fill-in-the-Blank: Comprehensive Review",
+    "content": [
+        {
+            "sentence": "Der Apfel ist ___. (red)",
+            "options": [
+                {"choices": ["rot", "grün", "blau"]}
+            ],
+            "answers": ["rot"]
+        },
+        {
+            "sentence": "Ein Rad ist ein ___. (circle)",
+            "options": [
+                {"choices": ["Kreis", "Quadrat", "Dreieck"]}
+            ],
+            "answers": ["Kreis"]
+        },
+        {
+            "sentence": "Er kam als ___. (second)",
+            "options": [
+                {"choices": ["Zweite", "Erste", "Dritte"]}
+            ],
+            "answers": ["Zweite"]
+        },
+        {
+            "sentence": "Ich habe ___. (eight)",
+            "options": [
+                {"choices": ["acht", "zehn", "fünf"]}
+            ],
+            "answers": ["acht"]
+        }
+    ]
+}

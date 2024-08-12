@@ -1,0 +1,16 @@
+{
+    "chapter": 6,
+    "type": 8,
+    "title": "7: The Verb 'essen' (to eat)",
+    "verb": "essen",
+    "tenses": {
+        "Present": {
+            "ich": "esse",
+            "du": "isst",
+            "er/sie/es": "isst",
+            "wir": "essen",
+            "ihr": "esst",
+            "sie/Sie": "essen"
+        }
+    }
+}

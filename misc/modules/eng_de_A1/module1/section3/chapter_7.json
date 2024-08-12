@@ -1,0 +1,16 @@
+{
+    "chapter": 7,
+    "type": 8,
+    "title": "8: The Verb 'sein' (to be)",
+    "verb": "sein",
+    "tenses": {
+        "Present": {
+            "ich": "bin",
+            "du": "bist",
+            "er/sie/es": "ist",
+            "wir": "sind",
+            "ihr": "seid",
+            "sie/Sie": "sind"
+        }
+    }
+}

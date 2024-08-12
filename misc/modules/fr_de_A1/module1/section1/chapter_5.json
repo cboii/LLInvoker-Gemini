@@ -1,0 +1,24 @@
+{
+    "chapter": 5,
+    "type": 8,
+    "title": "6: Le verbe \"heißen\" (s'appeler)",
+    "verb": "heißen",
+    "tenses": {
+        "Présent": {
+            "ich": "heiße",
+            "du": "heißt",
+            "er/sie/es": "heißt",
+            "wir": "heißen",
+            "ihr": "heißt",
+            "sie": "heißen"
+        },
+        "Imparfait": {
+            "ich": "hieß",
+            "du": "hießt",
+            "er/sie/es": "hieß",
+            "wir": "hießen",
+            "ihr": "hießt",
+            "sie": "hießen"
+        }
+    }
+}
